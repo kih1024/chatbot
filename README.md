@@ -1,6 +1,1 @@
-# practice >> README.md
-;
-echo # practice
-# practice
-# practice
-# chatbot
+#오오신김팀 채팅봇 프로젝트
