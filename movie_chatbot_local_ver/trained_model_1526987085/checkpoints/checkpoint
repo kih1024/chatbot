@@ -1,0 +1,3 @@
+model_checkpoint_path: "/home/ailab4/Django/movie/my_chatbot_textcnn_mecab/trained_model_1526987085/checkpoints/model-400"
+all_model_checkpoint_paths: "/home/ailab4/Django/movie/my_chatbot_textcnn_mecab/trained_model_1526987085/checkpoints/model-200"
+all_model_checkpoint_paths: "/home/ailab4/Django/movie/my_chatbot_textcnn_mecab/trained_model_1526987085/checkpoints/model-400"

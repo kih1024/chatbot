@@ -1,0 +1,3003 @@
+<SAMI>
+<HEAD>
+<TITLE> Corpse.Bride.2005.1080p.BluRay.x264 </TITLE>
+<STYLE TYPE="text/css">
+<!--
+P { margin-left:8pt; margin-right:8pt; margin-bottom:2pt;
+    margin-top:2pt; font-size:20pt; text-align:center;
+    font-family:arial, sans-serif; font-weight:normal; color:white;
+    }
+.KRCC { Name:한국어; lang:ko-KR; SAMIType:CC; }
+#STDPrn { Name:Standard Print; }
+#LargePrn { Name:Large Print; font-size:20pt; }
+#SmallPrn { Name:Small Print; font-size:10pt; }
+-->
+</STYLE>
+</HEAD>
+<BODY>
+<SYNC Start=104153><P Class=KRCC>
+'반 도트 생선 가게'
+<SYNC Start=106144><P Class=KRCC>&nbsp;
+<SYNC Start=111994><P Class=KRCC>
+- 안녕하시오?<br>
+- 좋은 아침이오
+<SYNC Start=113757><P Class=KRCC>&nbsp;
+<SYNC Start=115130><P Class=KRCC>
+알립니다, 빅터 결혼 리허설<br>
+10분 전입니다
+<SYNC Start=121501><P Class=KRCC>&nbsp;
+<SYNC Start=137786><P Class=KRCC>
+조심해요!
+<SYNC Start=139219><P Class=KRCC>&nbsp;
+<SYNC Start=147463><P Class=KRCC>
+- 아름다운 날이야<br>
+- 날씨 괜찮네
+<SYNC Start=150296><P Class=KRCC>&nbsp;
+<SYNC Start=150466><P Class=KRCC>
+화창한 날의<br>
+멋진 결혼식
+<SYNC Start=152627><P Class=KRCC>&nbsp;
+<SYNC Start=152801><P Class=KRCC>
+정확히 말해<br>
+결혼 리허설
+<SYNC Start=155565><P Class=KRCC>&nbsp;
+<SYNC Start=155738><P Class=KRCC>
+화창한 날의<br>
+멋진 리허설
+<SYNC Start=158138><P Class=KRCC>&nbsp;
+<SYNC Start=158307><P Class=KRCC>
+뜻밖의 일만<br>
+안 터진다면
+<SYNC Start=161242><P Class=KRCC>&nbsp;
+<SYNC Start=161410><P Class=KRCC>
+돌발 변수만<br>
+안 생긴다면
+<SYNC Start=163810><P Class=KRCC>&nbsp;
+<SYNC Start=163979><P Class=KRCC>
+자질구레하고
+<SYNC Start=166379><P Class=KRCC>&nbsp;
+<SYNC Start=166648><P Class=KRCC>
+아주 보잘것없는<br>
+사항들까지
+<SYNC Start=171381><P Class=KRCC>&nbsp;
+<SYNC Start=171553><P Class=KRCC>
+- 계획대로 되면<br>
+- 우리 아들은 결혼하고
+<SYNC Start=174454><P Class=KRCC>&nbsp;
+<SYNC Start=174623><P Class=KRCC>
+- 예정대로<br>
+- 우리 집안은
+<SYNC Start=176716><P Class=KRCC>&nbsp;
+<SYNC Start=176892><P Class=KRCC>
+명문가로<br>
+거급날 거야
+<SYNC Start=180692><P Class=KRCC>&nbsp;
+<SYNC Start=180996><P Class=KRCC>
+- 무도회에서<br>
+- 대저택에서
+<SYNC Start=183487><P Class=KRCC>&nbsp;
+<SYNC Start=183665><P Class=KRCC>
+귀족들과<br>
+어울리며
+<SYNC Start=185826><P Class=KRCC>&nbsp;
+<SYNC Start=186001><P Class=KRCC>
+여왕 폐하와<br>
+나란히 앉아
+<SYNC Start=188629><P Class=KRCC>&nbsp;
+<SYNC Start=189071><P Class=KRCC>
+홍차를 마시며<br>
+담소를 나누고
+<SYNC Start=191596><P Class=KRCC>&nbsp;
+<SYNC Start=191774><P Class=KRCC>
+비린내 풍기던<br>
+과거는 끝이야
+<SYNC Start=195403><P Class=KRCC>&nbsp;
+<SYNC Start=197412><P Class=KRCC>
+- 옷이 끼었어!<br>
+- 죄송합니다
+<SYNC Start=200779><P Class=KRCC>&nbsp;
+<SYNC Start=200949><P Class=KRCC>
+- 도와줄게<br>
+- 옷이 끼었다니까
+<SYNC Start=204407><P Class=KRCC>&nbsp;
+<SYNC Start=204586><P Class=KRCC>
+빅터는?<br>
+이러다 늦겠어!
+<SYNC Start=207419><P Class=KRCC>&nbsp;
+<SYNC Start=212394><P Class=KRCC>
+생선 장수라니!
+<SYNC Start=214328><P Class=KRCC>&nbsp;
+<SYNC Start=214763><P Class=KRCC>
+- 끔찍한 날이야<br>
+- 진정해
+<SYNC Start=217459><P Class=KRCC>&nbsp;
+<SYNC Start=217633><P Class=KRCC>
+끔찍한 날에<br>
+끔찍한 결혼
+<SYNC Start=220158><P Class=KRCC>&nbsp;
+<SYNC Start=220335><P Class=KRCC>
+몰락한 가문을<br>
+구하려고
+<SYNC Start=223327><P Class=KRCC>&nbsp;
+<SYNC Start=223505><P Class=KRCC>
+받아들인<br>
+불길한 결혼
+<SYNC Start=226702><P Class=KRCC>&nbsp;
+<SYNC Start=226875><P Class=KRCC>
+가세가 기울어
+<SYNC Start=229036><P Class=KRCC>&nbsp;
+<SYNC Start=229711><P Class=KRCC>
+딸을 졸부 집안으로<br>
+시집 보내다니
+<SYNC Start=232202><P Class=KRCC>&nbsp;
+<SYNC Start=232381><P Class=KRCC>
+- 하찮은 평민<br>
+- 미천한 평민
+<SYNC Start=233871><P Class=KRCC>&nbsp;
+<SYNC Start=234049><P Class=KRCC>
+- 정말 최악이야<br>
+- 최악? 안심하긴 일러
+<SYNC Start=237849><P Class=KRCC>&nbsp;
+<SYNC Start=238020><P Class=KRCC>
+땅만 많고<br>
+돈은 없는
+<SYNC Start=240682><P Class=KRCC>&nbsp;
+<SYNC Start=240856><P Class=KRCC>
+귀족일지도 몰라
+<SYNC Start=242255><P Class=KRCC>&nbsp;
+<SYNC Start=242424><P Class=KRCC>
+바로 당신과<br>
+나처럼!
+<SYNC Start=245825><P Class=KRCC>&nbsp;
+<SYNC Start=245994><P Class=KRCC>
+맙소사
+<SYNC Start=247757><P Class=KRCC>&nbsp;
+<SYNC Start=248363><P Class=KRCC>
+자질구레하고
+<SYNC Start=251230><P Class=KRCC>&nbsp;
+<SYNC Start=251400><P Class=KRCC>
+아주 보잘것없는<br>
+사항들까지
+<SYNC Start=256167><P Class=KRCC>&nbsp;
+<SYNC Start=258607><P Class=KRCC>
+- 계획대로 되면<br>
+- 딸은 결혼하고
+<SYNC Start=261405><P Class=KRCC>&nbsp;
+<SYNC Start=261577><P Class=KRCC>
+- 계획대로<br>
+- 우리 집안은
+<SYNC Start=264478><P Class=KRCC>&nbsp;
+<SYNC Start=264646><P Class=KRCC>
+지긋지긋한<br>
+가난에서 벗어나
+<SYNC Start=269447><P Class=KRCC>&nbsp;
+<SYNC Start=270385><P Class=KRCC>
+- 떵떵거리게 돼<br>
+- 선조들처럼
+<SYNC Start=273377><P Class=KRCC>&nbsp;
+<SYNC Start=273555><P Class=KRCC>
+그 누가<br>
+상상했었겠어
+<SYNC Start=276388><P Class=KRCC>&nbsp;
+<SYNC Start=276558><P Class=KRCC>
+모과처럼 못난<br>
+우리 딸이
+<SYNC Start=279755><P Class=KRCC>&nbsp;
+<SYNC Start=279928><P Class=KRCC>
+우리를 먹여<br>
+살리게 될 줄이야
+<SYNC Start=284456><P Class=KRCC>&nbsp;
+<SYNC Start=290973><P Class=KRCC>
+힐데가르드
+<SYNC Start=292338><P Class=KRCC>&nbsp;
+<SYNC Start=292507><P Class=KRCC>
+빅터와 내가<br>
+서로 맘에 안 들면요?
+<SYNC Start=296136><P Class=KRCC>&nbsp;
+<SYNC Start=297179><P Class=KRCC>
+그건 결혼하고<br>
+아무 상관없어
+<SYNC Start=299773><P Class=KRCC>&nbsp;
+<SYNC Start=299948><P Class=KRCC>
+엄마 아빠가<br>
+사랑하는 것 같니?
+<SYNC Start=303577><P Class=KRCC>&nbsp;
+<SYNC Start=303752><P Class=KRCC>
+조금은, 아녜요?
+<SYNC Start=305276><P Class=KRCC>&nbsp;
+<SYNC Start=306021><P Class=KRCC>
+- 전혀!<br>
+- 전혀!
+<SYNC Start=307386><P Class=KRCC>&nbsp;
+<SYNC Start=307556><P Class=KRCC>
+코르셋 바짝 조여
+<SYNC Start=309490><P Class=KRCC>&nbsp;
+<SYNC Start=309658><P Class=KRCC>
+숨막혀서 말을<br>
+못 할 정도로!
+<SYNC Start=312525><P Class=KRCC>&nbsp;
+<SYNC Start=318867><P Class=KRCC>
+월척을 낚았다, 빅터
+<SYNC Start=321199><P Class=KRCC>&nbsp;
+<SYNC Start=321370><P Class=KRCC>
+- 건지기만 하면 끝나<br>
+- 저도 알아요
+<SYNC Start=325136><P Class=KRCC>&nbsp;
+<SYNC Start=325307><P Class=KRCC>
+그런데 왜 귀족과<br>
+결혼하지 않죠?
+<SYNC Start=328435><P Class=KRCC>&nbsp;
+<SYNC Start=328610><P Class=KRCC>
+우리 집안도<br>
+꿀릴 거 하나 없어
+<SYNC Start=331943><P Class=KRCC>&nbsp;
+<SYNC Start=332114><P Class=KRCC>
+귀족과 사돈 맺으니<br>
+엄마도 소원 풀었다
+<SYNC Start=336483><P Class=KRCC>&nbsp;
+<SYNC Start=336652><P Class=KRCC>
+그녀랑 말도<br>
+못 해본걸요
+<SYNC Start=338950><P Class=KRCC>&nbsp;
+<SYNC Start=339121><P Class=KRCC>
+오히려 잘됐지
+<SYNC Start=341715><P Class=KRCC>&nbsp;
+<SYNC Start=342858><P Class=KRCC>
+메이휴!<br>
+기침 그만해요!
+<SYNC Start=345884><P Class=KRCC>&nbsp;
+<SYNC Start=351333><P Class=KRCC>
+서로 맞춰가며<br>
+사는 게 부부죠
+<SYNC Start=354894><P Class=KRCC>&nbsp;
+<SYNC Start=355404><P Class=KRCC>
+엄마 아빠를 봐왔으니
+<SYNC Start=357838><P Class=KRCC>&nbsp;
+<SYNC Start=358006><P Class=KRCC>
+자기도 알겠죠
+<SYNC Start=360702><P Class=KRCC>&nbsp;
+<SYNC Start=360876><P Class=KRCC>
+- 잘 알 거예요<br>
+- 완벽해야만 돼
+<SYNC Start=364004><P Class=KRCC>&nbsp;
+<SYNC Start=364179><P Class=KRCC>
+- 모든 게 완벽해야만 돼<br>
+- 모든 게 완벽해야만 돼
+<SYNC Start=367012><P Class=KRCC>&nbsp;
+<SYNC Start=367182><P Class=KRCC>
+완벽해<br>
+사소하고
+<SYNC Start=368843><P Class=KRCC>&nbsp;
+<SYNC Start=369017><P Class=KRCC>
+자질구레하고
+<SYNC Start=370416><P Class=KRCC>&nbsp;
+<SYNC Start=370585><P Class=KRCC>
+아주 보잘것없는<br>
+사항들까지
+<SYNC Start=374749><P Class=KRCC>&nbsp;
+<SYNC Start=374923><P Class=KRCC>
+계획대로<br>
+완벽하게!
+<SYNC Start=378882><P Class=KRCC>&nbsp;
+<SYNC Start=381096><P Class=KRCC>
+허리 쭉 펴
+<SYNC Start=382586><P Class=KRCC>&nbsp;
+<SYNC Start=382764><P Class=KRCC>
+꼽추처럼 보이잖아
+<SYNC Start=385528><P Class=KRCC>&nbsp;
+<SYNC Start=393542><P Class=KRCC>
+어쩜! 웅장하면서도<br>
+고급스러워요
+<SYNC Start=399276><P Class=KRCC>&nbsp;
+<SYNC Start=399448><P Class=KRCC>
+멋있죠?
+<SYNC Start=401313><P Class=KRCC>&nbsp;
+<SYNC Start=403452><P Class=KRCC>
+우리 집보다 작잖아
+<SYNC Start=405079><P Class=KRCC>&nbsp;
+<SYNC Start=408590><P Class=KRCC>
+- 허름하고...<br>
+- 조용해요
+<SYNC Start=410956><P Class=KRCC>&nbsp;
+<SYNC Start=411126><P Class=KRCC>
+에버글롯 경 내외분
+<SYNC Start=413890><P Class=KRCC>&nbsp;
+<SYNC Start=414062><P Class=KRCC>
+반 도트 내외십니다
+<SYNC Start=417725><P Class=KRCC>&nbsp;
+<SYNC Start=417899><P Class=KRCC>
+네가 빅토리아구나
+<SYNC Start=420390><P Class=KRCC>&nbsp;
+<SYNC Start=421036><P Class=KRCC>
+딱 꽃다운<br>
+20살처럼 보여
+<SYNC Start=425268><P Class=KRCC>&nbsp;
+<SYNC Start=426341><P Class=KRCC>
+웃어요, 여보<br>
+웃어요
+<SYNC Start=429071><P Class=KRCC>&nbsp;
+<SYNC Start=433648><P Class=KRCC>
+안녕하세요<br>
+잘 오셨습니다
+<SYNC Start=438210><P Class=KRCC>&nbsp;
+<SYNC Start=438754><P Class=KRCC>
+고마워요
+<SYNC Start=439982><P Class=KRCC>&nbsp;
+<SYNC Start=440155><P Class=KRCC>
+응접실에서<br>
+차를 대접하죠
+<SYNC Start=443488><P Class=KRCC>&nbsp;
+<SYNC Start=444960><P Class=KRCC>
+가시죠<br>
+이쪽이에요
+<SYNC Start=447520><P Class=KRCC>&nbsp;
+<SYNC Start=447696><P Class=KRCC>
+실내장식이 아주 근사해요<br>
+누구 솜씨죠?
+<SYNC Start=451928><P Class=KRCC>&nbsp;
+<SYNC Start=452100><P Class=KRCC>
+커튼이 별로야
+<SYNC Start=454125><P Class=KRCC>&nbsp;
+<SYNC Start=454302><P Class=KRCC>
+남편이 주책이라...<br>
+무시하세요
+<SYNC Start=457794><P Class=KRCC>&nbsp;
+<SYNC Start=458306><P Class=KRCC>
+그게 정신 건강에 좋죠
+<SYNC Start=460399><P Class=KRCC>&nbsp;
+<SYNC Start=548830><P Class=KRCC>
+- 용서해요<br>
+- 아름다운 연주예요
+<SYNC Start=552391><P Class=KRCC>&nbsp;
+<SYNC Start=552567><P Class=KRCC>
+사과할게요<br>
+제가 무례하게...
+<SYNC Start=557834><P Class=KRCC>&nbsp;
+<SYNC Start=558573><P Class=KRCC>
+미안해요
+<SYNC Start=560063><P Class=KRCC>&nbsp;
+<SYNC Start=562010><P Class=KRCC>
+전 피아노를<br>
+못 배웠어요
+<SYNC Start=563773><P Class=KRCC>&nbsp;
+<SYNC Start=564513><P Class=KRCC>
+어머닌 음악이<br>
+처녀한테
+<SYNC Start=567778><P Class=KRCC>&nbsp;
+<SYNC Start=567949><P Class=KRCC>
+너무 열정적이래요
+<SYNC Start=569507><P Class=KRCC>&nbsp;
+<SYNC Start=569684><P Class=KRCC>
+그런데 에버글롯 양
+<SYNC Start=574485><P Class=KRCC>&nbsp;
+<SYNC Start=574656><P Class=KRCC>
+왜 혼자 계세요?
+<SYNC Start=576954><P Class=KRCC>&nbsp;
+<SYNC Start=577492><P Class=KRCC>
+결혼을 앞둔 사이인데
+<SYNC Start=581826><P Class=KRCC>&nbsp;
+<SYNC Start=582397><P Class=KRCC>
+빅토리아로 불러요
+<SYNC Start=585161><P Class=KRCC>&nbsp;
+<SYNC Start=585634><P Class=KRCC>
+그럴게요
+<SYNC Start=587295><P Class=KRCC>&nbsp;
+<SYNC Start=588103><P Class=KRCC>
+- 빅토리아<br>
+- 네, 빅터?
+<SYNC Start=591539><P Class=KRCC>&nbsp;
+<SYNC Start=592774><P Class=KRCC>
+내일 우린 결...
+<SYNC Start=595436><P Class=KRCC>&nbsp;
+<SYNC Start=597045><P Class=KRCC>
+결...
+<SYNC Start=598376><P Class=KRCC>&nbsp;
+<SYNC Start=598813><P Class=KRCC>
+- 결혼해요<br>
+- 네! 결... 결혼해요
+<SYNC Start=602943><P Class=KRCC>&nbsp;
+<SYNC Start=604386><P Class=KRCC>
+어려서부터<br>
+꿈꿔왔어요
+<SYNC Start=608447><P Class=KRCC>&nbsp;
+<SYNC Start=609057><P Class=KRCC>
+사랑하는<br>
+남자와 결혼해
+<SYNC Start=611992><P Class=KRCC>&nbsp;
+<SYNC Start=612527><P Class=KRCC>
+평생 행복하게<br>
+사는 걸요
+<SYNC Start=615360><P Class=KRCC>&nbsp;
+<SYNC Start=615897><P Class=KRCC>
+- 한심하죠?<br>
+- 네, 한심해요
+<SYNC Start=618695><P Class=KRCC>&nbsp;
+<SYNC Start=619234><P Class=KRCC>
+아뇨, 아뇨!<br>
+전혀
+<SYNC Start=622169><P Class=KRCC>&nbsp;
+<SYNC Start=622804><P Class=KRCC>
+이런!<br>
+미안해요
+<SYNC Start=625329><P Class=KRCC>&nbsp;
+<SYNC Start=631279><P Class=KRCC>
+남녀가<br>
+유별하거늘!
+<SYNC Start=633941><P Class=KRCC>&nbsp;
+<SYNC Start=634115><P Class=KRCC>
+단둘이 있으면<br>
+안 돼!
+<SYNC Start=636106><P Class=KRCC>&nbsp;
+<SYNC Start=636284><P Class=KRCC>
+결혼 리허설이<br>
+1분도 안 남았어
+<SYNC Start=640812><P Class=KRCC>&nbsp;
+<SYNC Start=640989><P Class=KRCC>
+목사님이 기다리신다<br>
+빨리 와
+<SYNC Start=645449><P Class=KRCC>&nbsp;
+<SYNC Start=646761><P Class=KRCC>
+'3시간 뒤'
+<SYNC Start=647989><P Class=KRCC>&nbsp;
+<SYNC Start=648163><P Class=KRCC>
+빅터, 처음부터 다시!
+<SYNC Start=651064><P Class=KRCC>&nbsp;
+<SYNC Start=651233><P Class=KRCC>
+이 손으로<br>
+당신의 슬픔을 어루만지고
+<SYNC Start=656500><P Class=KRCC>&nbsp;
+<SYNC Start=656838><P Class=KRCC>
+당신의 잔을<br>
+가득 채울 와인이 되리라
+<SYNC Start=662708><P Class=KRCC>&nbsp;
+<SYNC Start=662877><P Class=KRCC>
+이 촛불로<br>
+당신의 길을 밝힐지니
+<SYNC Start=668907><P Class=KRCC>&nbsp;
+<SYNC Start=669084><P Class=KRCC>
+이 반지를 받아<br>
+내 아내가 되어주시오
+<SYNC Start=674147><P Class=KRCC>&nbsp;
+<SYNC Start=675490><P Class=KRCC>
+- 다시 해봐<br>
+- 네
+<SYNC Start=678755><P Class=KRCC>&nbsp;
+<SYNC Start=678927><P Class=KRCC>
+이 촛불로
+<SYNC Start=681327><P Class=KRCC>&nbsp;
+<SYNC Start=683732><P Class=KRCC>
+촛불로...
+<SYNC Start=685563><P Class=KRCC>&nbsp;
+<SYNC Start=687035><P Class=KRCC>
+촛불로...
+<SYNC Start=688662><P Class=KRCC>&nbsp;
+<SYNC Start=689504><P Class=KRCC>
+- 내가 대신 해줄까요?<br>
+- 당신은 가만있어
+<SYNC Start=693463><P Class=KRCC>&nbsp;
+<SYNC Start=699281><P Class=KRCC>
+이 촛불로...
+<SYNC Start=701408><P Class=KRCC>&nbsp;
+<SYNC Start=703285><P Class=KRCC>
+계속해!
+<SYNC Start=704513><P Class=KRCC>&nbsp;
+<SYNC Start=706921><P Class=KRCC>
+누군지 나가봐
+<SYNC Start=708786><P Class=KRCC>&nbsp;
+<SYNC Start=709557><P Class=KRCC>
+'촛불' 부분부터<br>
+계속하죠
+<SYNC Start=713186><P Class=KRCC>&nbsp;
+<SYNC Start=715263><P Class=KRCC>
+바키스 경이십니다
+<SYNC Start=717629><P Class=KRCC>&nbsp;
+<SYNC Start=717799><P Class=KRCC>
+'바키스 비턴 경'
+<SYNC Start=719357><P Class=KRCC>&nbsp;
+<SYNC Start=721469><P Class=KRCC>
+날짜를 착각해서
+<SYNC Start=723835><P Class=KRCC>&nbsp;
+<SYNC Start=724005><P Class=KRCC>
+하루 일찍 왔군요
+<SYNC Start=726997><P Class=KRCC>&nbsp;
+<SYNC Start=728209><P Class=KRCC>
+- 당신 친척이야?<br>
+- 기억 안 나요
+<SYNC Start=732305><P Class=KRCC>&nbsp;
+<SYNC Start=732480><P Class=KRCC>
+의자 갖다 드려요!
+<SYNC Start=735108><P Class=KRCC>&nbsp;
+<SYNC Start=740555><P Class=KRCC>
+계속하세요
+<SYNC Start=742284><P Class=KRCC>&nbsp;
+<SYNC Start=742991><P Class=KRCC>
+그럼 다시 해볼까, 빅터?
+<SYNC Start=747860><P Class=KRCC>&nbsp;
+<SYNC Start=748029><P Class=KRCC>
+- 네, 목사님, 좋아요<br>
+- 오른손!
+<SYNC Start=752227><P Class=KRCC>&nbsp;
+<SYNC Start=752400><P Class=KRCC>
+네... 아, 오른손!
+<SYNC Start=755301><P Class=KRCC>&nbsp;
+<SYNC Start=755470><P Class=KRCC>
+- 이... 이...<br>
+- 손!
+<SYNC Start=759634><P Class=KRCC>&nbsp;
+<SYNC Start=759808><P Class=KRCC>
+이 손으로...
+<SYNC Start=762709><P Class=KRCC>&nbsp;
+<SYNC Start=762877><P Class=KRCC>
+이...
+<SYNC Start=764367><P Class=KRCC>&nbsp;
+<SYNC Start=764546><P Class=KRCC>
+세 걸음이야!
+<SYNC Start=766810><P Class=KRCC>&nbsp;
+<SYNC Start=766981><P Class=KRCC>
+숫자 못 세나?<br>
+결혼하기 싫은가, 빅터?
+<SYNC Start=771441><P Class=KRCC>&nbsp;
+<SYNC Start=771619><P Class=KRCC>
+- 아뇨, 아뇨<br>
+- 싫어요?
+<SYNC Start=773314><P Class=KRCC>&nbsp;
+<SYNC Start=773488><P Class=KRCC>
+아뇨! 결혼하기<br>
+싫지 않다고요
+<SYNC Start=777481><P Class=KRCC>&nbsp;
+<SYNC Start=777659><P Class=KRCC>
+다시 말해서...
+<SYNC Start=780059><P Class=KRCC>&nbsp;
+<SYNC Start=780228><P Class=KRCC>
+정신 차려!<br>
+반지는 가져왔나?
+<SYNC Start=784494><P Class=KRCC>&nbsp;
+<SYNC Start=784666><P Class=KRCC>
+반지요?<br>
+네, 물론이죠
+<SYNC Start=787294><P Class=KRCC>&nbsp;
+<SYNC Start=790839><P Class=KRCC>
+반지를 떨어뜨리다니!
+<SYNC Start=793103><P Class=KRCC>&nbsp;
+<SYNC Start=793274><P Class=KRCC>
+- 결혼하기가 싫은 겁니다<br>
+- 칠칠치 못하게!
+<SYNC Start=797005><P Class=KRCC>&nbsp;
+<SYNC Start=797412><P Class=KRCC>
+실례할게요<br>
+찾았어요!
+<SYNC Start=799073><P Class=KRCC>&nbsp;
+<SYNC Start=802751><P Class=KRCC>
+저리 비켜!
+<SYNC Start=804981><P Class=KRCC>&nbsp;
+<SYNC Start=805820><P Class=KRCC>
+불이 붙었잖아<br>
+불이야!
+<SYNC Start=810484><P Class=KRCC>&nbsp;
+<SYNC Start=811793><P Class=KRCC>
+- 빨면 괜찮을 거예요<br>
+- 부채질 그만해!
+<SYNC Start=816526><P Class=KRCC>&nbsp;
+<SYNC Start=819868><P Class=KRCC>
+- 양동이 가져와요!<br>
+- 지금 가져올게, 맙소사!
+<SYNC Start=824464><P Class=KRCC>&nbsp;
+<SYNC Start=832514><P Class=KRCC>
+그만! 서약을 못 외우면<br>
+결혼을 못 합니다
+<SYNC Start=838419><P Class=KRCC>&nbsp;
+<SYNC Start=840021><P Class=KRCC>
+빅터, 결혼 서약을<br>
+외우고 와
+<SYNC Start=845550><P Class=KRCC>&nbsp;
+<SYNC Start=859908><P Class=KRCC>
+약혼자가<br>
+좀 별나군요
+<SYNC Start=864242><P Class=KRCC>&nbsp;
+<SYNC Start=878993><P Class=KRCC>
+빅토리아가
+<SYNC Start=880688><P Class=KRCC>&nbsp;
+<SYNC Start=881162><P Class=KRCC>
+날 바보로 알 거야<br>
+최악의 하루야
+<SYNC Start=885098><P Class=KRCC>&nbsp;
+<SYNC Start=885266><P Class=KRCC>
+알립니다, 빅터가 리허설을<br>
+완전히 망쳤습니다
+<SYNC Start=891364><P Class=KRCC>&nbsp;
+<SYNC Start=892474><P Class=KRCC>
+예비 신랑이<br>
+실수를 저질러
+<SYNC Start=896433><P Class=KRCC>&nbsp;
+<SYNC Start=896611><P Class=KRCC>
+신부 어머니 옷이<br>
+불탔습니다
+<SYNC Start=902277><P Class=KRCC>&nbsp;
+<SYNC Start=903885><P Class=KRCC>
+어려울 게 뭐야?
+<SYNC Start=906445><P Class=KRCC>&nbsp;
+<SYNC Start=906621><P Class=KRCC>
+간단한 서약인데
+<SYNC Start=908782><P Class=KRCC>&nbsp;
+<SYNC Start=908957><P Class=KRCC>
+이 손으로<br>
+당신 와인을 마시고...
+<SYNC Start=913018><P Class=KRCC>&nbsp;
+<SYNC Start=913194><P Class=KRCC>
+아냐
+<SYNC Start=914593><P Class=KRCC>&nbsp;
+<SYNC Start=915864><P Class=KRCC>
+이 손으로
+<SYNC Start=917525><P Class=KRCC>&nbsp;
+<SYNC Start=917699><P Class=KRCC>
+당신 가슴을...
+<SYNC Start=919360><P Class=KRCC>&nbsp;
+<SYNC Start=919534><P Class=KRCC>
+맙소사, 아냐
+<SYNC Start=921092><P Class=KRCC>&nbsp;
+<SYNC Start=922904><P Class=KRCC>
+이... 이...
+<SYNC Start=925168><P Class=KRCC>&nbsp;
+<SYNC Start=925673><P Class=KRCC>
+이...
+<SYNC Start=927231><P Class=KRCC>&nbsp;
+<SYNC Start=927408><P Class=KRCC>
+이 촛불로<br>
+당신의...
+<SYNC Start=929968><P Class=KRCC>&nbsp;
+<SYNC Start=931713><P Class=KRCC>
+당신의...
+<SYNC Start=933237><P Class=KRCC>&nbsp;
+<SYNC Start=933915><P Class=KRCC>
+당신 어머니를<br>
+불태우겠소
+<SYNC Start=936042><P Class=KRCC>&nbsp;
+<SYNC Start=937952><P Class=KRCC>
+소용없어
+<SYNC Start=939647><P Class=KRCC>&nbsp;
+<SYNC Start=952233><P Class=KRCC>
+이 손으로<br>
+당신의 슬픔을 어루만지고
+<SYNC Start=956829><P Class=KRCC>&nbsp;
+<SYNC Start=957005><P Class=KRCC>
+당신의 잔을<br>
+가득 채울 와인이 되리니
+<SYNC Start=961669><P Class=KRCC>&nbsp;
+<SYNC Start=963378><P Class=KRCC>
+에버글롯 부인
+<SYNC Start=964640><P Class=KRCC>&nbsp;
+<SYNC Start=965280><P Class=KRCC>
+오늘 밤<br>
+아름다우세요
+<SYNC Start=967510><P Class=KRCC>&nbsp;
+<SYNC Start=968349><P Class=KRCC>
+네, 에버글롯 씨?<br>
+호칭을 아버지로? 그러죠
+<SYNC Start=973446><P Class=KRCC>&nbsp;
+<SYNC Start=973621><P Class=KRCC>
+이 촛불로<br>
+당신의 길을 밝힐지니
+<SYNC Start=978115><P Class=KRCC>&nbsp;
+<SYNC Start=978626><P Class=KRCC>
+이 반지를 받아
+<SYNC Start=980287><P Class=KRCC>&nbsp;
+<SYNC Start=981062><P Class=KRCC>
+내 아내가<br>
+되어주시오
+<SYNC Start=984657><P Class=KRCC>&nbsp;
+<SYNC Start=1038119><P Class=KRCC>
+네!
+<SYNC Start=1039313><P Class=KRCC>&nbsp;
+<SYNC Start=1127975><P Class=KRCC>
+이제 신부한테<br>
+키스해요
+<SYNC Start=1130944><P Class=KRCC>&nbsp;
+<SYNC Start=1137985><P Class=KRCC>
+- 새내기야!<br>
+- 기절했어요
+<SYNC Start=1141148><P Class=KRCC>&nbsp;
+<SYNC Start=1141322><P Class=KRCC>
+- 괜찮아요?<br>
+- 어떻게 된 거죠?
+<SYNC Start=1144120><P Class=KRCC>&nbsp;
+<SYNC Start=1144292><P Class=KRCC>
+맙소사!<br>
+산 사람이야
+<SYNC Start=1147352><P Class=KRCC>&nbsp;
+<SYNC Start=1147795><P Class=KRCC>
+- 죽은 형님 있대요?<br>
+- 아직 부드러워
+<SYNC Start=1150662><P Class=KRCC>&nbsp;
+<SYNC Start=1153668><P Class=KRCC>
+건배하자고
+<SYNC Start=1155295><P Class=KRCC>&nbsp;
+<SYNC Start=1161008><P Class=KRCC>
+신혼부부를<br>
+위하여!
+<SYNC Start=1162600><P Class=KRCC>&nbsp;
+<SYNC Start=1162777><P Class=KRCC>
+신혼부부?
+<SYNC Start=1164005><P Class=KRCC>&nbsp;
+<SYNC Start=1164979><P Class=KRCC>
+숲에서 나한테<br>
+서약했잖아요
+<SYNC Start=1169075><P Class=KRCC>&nbsp;
+<SYNC Start=1169250><P Class=KRCC>
+내가요?
+<SYNC Start=1170842><P Class=KRCC>&nbsp;
+<SYNC Start=1171018><P Class=KRCC>
+그랬군
+<SYNC Start=1172451><P Class=KRCC>&nbsp;
+<SYNC Start=1172620><P Class=KRCC>
+일어나!<br>
+이건 꿈이야!
+<SYNC Start=1174850><P Class=KRCC>&nbsp;
+<SYNC Start=1176891><P Class=KRCC>
+지나갈게요<br>
+지나갈게요
+<SYNC Start=1179917><P Class=KRCC>&nbsp;
+<SYNC Start=1180094><P Class=KRCC>
+난 폴이고<br>
+여기 지배인이야
+<SYNC Start=1182961><P Class=KRCC>&nbsp;
+<SYNC Start=1184031><P Class=KRCC>
+피로연은<br>
+내가 맡을게
+<SYNC Start=1187091><P Class=KRCC>&nbsp;
+<SYNC Start=1187335><P Class=KRCC>
+벌써 군침이 돌아!
+<SYNC Start=1189701><P Class=KRCC>&nbsp;
+<SYNC Start=1190671><P Class=KRCC>
+구더기예요
+<SYNC Start=1191899><P Class=KRCC>&nbsp;
+<SYNC Start=1194809><P Class=KRCC>
+물러서요!
+<SYNC Start=1196401><P Class=KRCC>&nbsp;
+<SYNC Start=1201682><P Class=KRCC>
+안 그럼...<br>
+이 난쟁이로 찌를 거예요!
+<SYNC Start=1205049><P Class=KRCC>&nbsp;
+<SYNC Start=1205219><P Class=KRCC>
+질문해줘요<br>
+당장!
+<SYNC Start=1208518><P Class=KRCC>&nbsp;
+<SYNC Start=1208689><P Class=KRCC>
+- 질문이 아니라 대답이겠지<br>
+- 네, 고마워요
+<SYNC Start=1212648><P Class=KRCC>&nbsp;
+<SYNC Start=1212827><P Class=KRCC>
+대답해줘요<br>
+여기가 어디죠?
+<SYNC Start=1216422><P Class=KRCC>&nbsp;
+<SYNC Start=1216597><P Class=KRCC>
+당신은 누구예요?
+<SYNC Start=1217723><P Class=KRCC>&nbsp;
+<SYNC Start=1217899><P Class=KRCC>
+얘기하자면 좀 길어요
+<SYNC Start=1221266><P Class=KRCC>&nbsp;
+<SYNC Start=1221702><P Class=KRCC>
+굉장한 스토리지
+<SYNC Start=1224034><P Class=KRCC>&nbsp;
+<SYNC Start=1224205><P Class=KRCC>
+비극적인 사랑과 열정
+<SYNC Start=1227766><P Class=KRCC>&nbsp;
+<SYNC Start=1227942><P Class=KRCC>
+그리고 추악한 살인!
+<SYNC Start=1229739><P Class=KRCC>&nbsp;
+<SYNC Start=1229911><P Class=KRCC>
+재밌을 거야
+<SYNC Start=1231503><P Class=KRCC>&nbsp;
+<SYNC Start=1233614><P Class=KRCC>
+연주!
+<SYNC Start=1235275><P Class=KRCC>&nbsp;
+<SYNC Start=1245927><P Class=KRCC>
+모두 귀를<br>
+기울여봐
+<SYNC Start=1249522><P Class=KRCC>&nbsp;
+<SYNC Start=1249697><P Class=KRCC>
+귀가 안 썩고<br>
+남아있다면
+<SYNC Start=1252427><P Class=KRCC>&nbsp;
+<SYNC Start=1252600><P Class=KRCC>
+해골도 울릴<br>
+슬픈 사랑 얘기
+<SYNC Start=1255398><P Class=KRCC>&nbsp;
+<SYNC Start=1255570><P Class=KRCC>
+주인공은 바로<br>
+유령신부
+<SYNC Start=1259062><P Class=KRCC>&nbsp;
+<SYNC Start=1259240><P Class=KRCC>
+사람은 누구나<br>
+죽는 법
+<SYNC Start=1261640><P Class=KRCC>&nbsp;
+<SYNC Start=1261809><P Class=KRCC>
+슬퍼할 필요는 없어
+<SYNC Start=1264573><P Class=KRCC>&nbsp;
+<SYNC Start=1264745><P Class=KRCC>
+죽음을 피해<br>
+도망 다녀도
+<SYNC Start=1267270><P Class=KRCC>&nbsp;
+<SYNC Start=1267448><P Class=KRCC>
+마지막엔 모두<br>
+한 줌의 재
+<SYNC Start=1270542><P Class=KRCC>&nbsp;
+<SYNC Start=1271786><P Class=KRCC>
+옳소!
+<SYNC Start=1273117><P Class=KRCC>&nbsp;
+<SYNC Start=1275957><P Class=KRCC>
+절세미인이었던 그녀는
+<SYNC Start=1279449><P Class=KRCC>&nbsp;
+<SYNC Start=1279627><P Class=KRCC>
+돈은 없지만<br>
+훤칠하게 생긴
+<SYNC Start=1282562><P Class=KRCC>&nbsp;
+<SYNC Start=1282730><P Class=KRCC>
+이름 모를<br>
+떠돌이 남자와
+<SYNC Start=1285358><P Class=KRCC>&nbsp;
+<SYNC Start=1285533><P Class=KRCC>
+불 같은 사랑에<br>
+빠졌고
+<SYNC Start=1288434><P Class=KRCC>&nbsp;
+<SYNC Start=1288603><P Class=KRCC>
+집에서 결혼을<br>
+반대하자
+<SYNC Start=1291436><P Class=KRCC>&nbsp;
+<SYNC Start=1291606><P Class=KRCC>
+도망가기로<br>
+결심했어
+<SYNC Start=1294166><P Class=KRCC>&nbsp;
+<SYNC Start=1294876><P Class=KRCC>
+사람은 누구나<br>
+죽는 법
+<SYNC Start=1297310><P Class=KRCC>&nbsp;
+<SYNC Start=1297478><P Class=KRCC>
+슬퍼할 필요는 없어
+<SYNC Start=1300572><P Class=KRCC>&nbsp;
+<SYNC Start=1300748><P Class=KRCC>
+죽음을 피해<br>
+도망 다녀도
+<SYNC Start=1303273><P Class=KRCC>&nbsp;
+<SYNC Start=1303451><P Class=KRCC>
+마지막엔 모두<br>
+한 줌의 재
+<SYNC Start=1306614><P Class=KRCC>&nbsp;
+<SYNC Start=1323404><P Class=KRCC>
+그렇지
+<SYNC Start=1324894><P Class=KRCC>&nbsp;
+<SYNC Start=1325439><P Class=KRCC>
+좋아, 뼈 주워들고<br>
+계속!
+<SYNC Start=1329136><P Class=KRCC>&nbsp;
+<SYNC Start=1330011><P Class=KRCC>
+아주 좋아
+<SYNC Start=1333071><P Class=KRCC>&nbsp;
+<SYNC Start=1333247><P Class=KRCC>
+갈비뼈 기타 연주!
+<SYNC Start=1335147><P Class=KRCC>&nbsp;
+<SYNC Start=1337385><P Class=KRCC>
+좋아
+<SYNC Start=1338647><P Class=KRCC>&nbsp;
+<SYNC Start=1348296><P Class=KRCC>
+좋아!
+<SYNC Start=1349854><P Class=KRCC>&nbsp;
+<SYNC Start=1353801><P Class=KRCC>
+좋았어
+<SYNC Start=1355701><P Class=KRCC>&nbsp;
+<SYNC Start=1357505><P Class=KRCC>
+그녀는 둘의<br>
+비밀 결혼을
+<SYNC Start=1360303><P Class=KRCC>&nbsp;
+<SYNC Start=1360474><P Class=KRCC>
+아무한테도<br>
+알리지 않았고
+<SYNC Start=1362840><P Class=KRCC>&nbsp;
+<SYNC Start=1363010><P Class=KRCC>
+엄마 웨딩드레스도<br>
+챙겨 입었어
+<SYNC Start=1365535><P Class=KRCC>&nbsp;
+<SYNC Start=1365713><P Class=KRCC>
+사랑에 빠지면<br>
+많은 게 필요치 않아
+<SYNC Start=1368273><P Class=KRCC>&nbsp;
+<SYNC Start=1368449><P Class=KRCC>
+금은보석 몇 개
+<SYNC Start=1370781><P Class=KRCC>&nbsp;
+<SYNC Start=1370952><P Class=KRCC>
+훔쳐오면 되지
+<SYNC Start=1373546><P Class=KRCC>&nbsp;
+<SYNC Start=1373721><P Class=KRCC>
+떡갈나무가<br>
+드리운 무덤가
+<SYNC Start=1376212><P Class=KRCC>&nbsp;
+<SYNC Start=1376390><P Class=KRCC>
+밤안개가<br>
+자욱한 새벽
+<SYNC Start=1378654><P Class=KRCC>&nbsp;
+<SYNC Start=1378826><P Class=KRCC>
+하지만, 남자는<br>
+나타나질 않았어
+<SYNC Start=1382262><P Class=KRCC>&nbsp;
+<SYNC Start=1382930><P Class=KRCC>
+그래서?
+<SYNC Start=1384261><P Class=KRCC>&nbsp;
+<SYNC Start=1384532><P Class=KRCC>
+- 그녀는 기다렸어<br>
+- 그리곤?
+<SYNC Start=1386363><P Class=KRCC>&nbsp;
+<SYNC Start=1386534><P Class=KRCC>
+- 그림자가 나타났지<br>
+- 그리곤?
+<SYNC Start=1389401><P Class=KRCC>&nbsp;
+<SYNC Start=1389570><P Class=KRCC>
+- 그녀 가슴은 콩닥콩닥<br>
+- 그리곤?
+<SYNC Start=1393006><P Class=KRCC>&nbsp;
+<SYNC Start=1393474><P Class=KRCC>
+갑자기 세상이<br>
+어두워졌어
+<SYNC Start=1397308><P Class=KRCC>&nbsp;
+<SYNC Start=1397778><P Class=KRCC>
+그녀는 그렇게<br>
+죽었고
+<SYNC Start=1400804><P Class=KRCC>&nbsp;
+<SYNC Start=1400982><P Class=KRCC>
+보석은 사라지고<br>
+가슴은 찢어졌어
+<SYNC Start=1403849><P Class=KRCC>&nbsp;
+<SYNC Start=1404018><P Class=KRCC>
+죽은 그녀는<br>
+맹세했지
+<SYNC Start=1406578><P Class=KRCC>&nbsp;
+<SYNC Start=1406754><P Class=KRCC>
+자신의 영혼을<br>
+자유롭게 해줄
+<SYNC Start=1409552><P Class=KRCC>&nbsp;
+<SYNC Start=1409724><P Class=KRCC>
+참된 사랑을<br>
+기다리겠노라고
+<SYNC Start=1412557><P Class=KRCC>&nbsp;
+<SYNC Start=1413194><P Class=KRCC>
+그리곤 얼마 후<br>
+한 멋진 청년이
+<SYNC Start=1416061><P Class=KRCC>&nbsp;
+<SYNC Start=1416230><P Class=KRCC>
+결혼 서약을 한 거야
+<SYNC Start=1418960><P Class=KRCC>&nbsp;
+<SYNC Start=1419133><P Class=KRCC>
+그녀의 스토리는<br>
+여기까지!
+<SYNC Start=1422967><P Class=KRCC>&nbsp;
+<SYNC Start=1423137><P Class=KRCC>
+사람은 누구나<br>
+죽는 법
+<SYNC Start=1424900><P Class=KRCC>&nbsp;
+<SYNC Start=1425072><P Class=KRCC>
+슬퍼할 필요는 없어
+<SYNC Start=1427836><P Class=KRCC>&nbsp;
+<SYNC Start=1428009><P Class=KRCC>
+죽음을 피해<br>
+도망 다녀도
+<SYNC Start=1430807><P Class=KRCC>&nbsp;
+<SYNC Start=1430978><P Class=KRCC>
+마지막엔 모두<br>
+한 줌의 재
+<SYNC Start=1436575><P Class=KRCC>&nbsp;
+<SYNC Start=1450031><P Class=KRCC>
+창가에서 떨어져라
+<SYNC Start=1452693><P Class=KRCC>&nbsp;
+<SYNC Start=1453968><P Class=KRCC>
+밤을 무서워하니까
+<SYNC Start=1455993><P Class=KRCC>&nbsp;
+<SYNC Start=1456170><P Class=KRCC>
+곧 올 거예요<br>
+어려선 밤마다
+<SYNC Start=1459367><P Class=KRCC>&nbsp;
+<SYNC Start=1459540><P Class=KRCC>
+오줌을 쌌어요<br>
+그렇죠, 여보?
+<SYNC Start=1463601><P Class=KRCC>&nbsp;
+<SYNC Start=1463778><P Class=KRCC>
+들어와
+<SYNC Start=1464972><P Class=KRCC>&nbsp;
+<SYNC Start=1468849><P Class=KRCC>
+바키스 경<br>
+방은 맘에 드나요?
+<SYNC Start=1472945><P Class=KRCC>&nbsp;
+<SYNC Start=1473120><P Class=KRCC>
+과분한 환대를<br>
+베푸시는데
+<SYNC Start=1476681><P Class=KRCC>&nbsp;
+<SYNC Start=1476857><P Class=KRCC>
+끔찍한 소식을 전하게 되어서<br>
+심히 유감입니다
+<SYNC Start=1482989><P Class=KRCC>&nbsp;
+<SYNC Start=1487134><P Class=KRCC>
+오늘 저녁 뉴스를<br>
+다시 말해봐
+<SYNC Start=1490763><P Class=KRCC>&nbsp;
+<SYNC Start=1490938><P Class=KRCC>
+알립니다
+<SYNC Start=1492929><P Class=KRCC>&nbsp;
+<SYNC Start=1493240><P Class=KRCC>
+묘령의 여자가<br>
+빅터를 품에 안고
+<SYNC Start=1497700><P Class=KRCC>&nbsp;
+<SYNC Start=1497878><P Class=KRCC>
+숲의 어둠 속으로<br>
+사라졌습니다
+<SYNC Start=1502338><P Class=KRCC>&nbsp;
+<SYNC Start=1502516><P Class=KRCC>
+다음은 날씨...
+<SYNC Start=1504381><P Class=KRCC>&nbsp;
+<SYNC Start=1504552><P Class=KRCC>
+그만! 나가보게
+<SYNC Start=1507020><P Class=KRCC>&nbsp;
+<SYNC Start=1509990><P Class=KRCC>
+묘령의 여자?<br>
+그럴 리가 없어요
+<SYNC Start=1513517><P Class=KRCC>&nbsp;
+<SYNC Start=1513694><P Class=KRCC>
+그거야 부인 생각이죠
+<SYNC Start=1515753><P Class=KRCC>&nbsp;
+<SYNC Start=1516630><P Class=KRCC>
+저의 도움이 필요하시면
+<SYNC Start=1519030><P Class=KRCC>&nbsp;
+<SYNC Start=1520401><P Class=KRCC>
+언제든지 부르십시오
+<SYNC Start=1522266><P Class=KRCC>&nbsp;
+<SYNC Start=1523771><P Class=KRCC>
+어쩌면 좋죠, 여보?
+<SYNC Start=1526706><P Class=KRCC>&nbsp;
+<SYNC Start=1526874><P Class=KRCC>
+총 가져와!
+<SYNC Start=1528364><P Class=KRCC>&nbsp;
+<SYNC Start=1528542><P Class=KRCC>
+어떻게 해봐요!
+<SYNC Start=1529975><P Class=KRCC>&nbsp;
+<SYNC Start=1530144><P Class=KRCC>
+특종을 잡으려다가
+<SYNC Start=1532669><P Class=KRCC>&nbsp;
+<SYNC Start=1532847><P Class=KRCC>
+오보를 낸걸 거예요
+<SYNC Start=1535645><P Class=KRCC>&nbsp;
+<SYNC Start=1535816><P Class=KRCC>
+그렇다 해도 신랑이 없으면<br>
+결혼을 못 하잖소
+<SYNC Start=1540310><P Class=KRCC>&nbsp;
+<SYNC Start=1540488><P Class=KRCC>
+이제 길거리에<br>
+나앉게 생겼군
+<SYNC Start=1543651><P Class=KRCC>&nbsp;
+<SYNC Start=1543824><P Class=KRCC>
+이런 수치스러운 일이!
+<SYNC Start=1546622><P Class=KRCC>&nbsp;
+<SYNC Start=1546794><P Class=KRCC>
+빅터를 찾아올게요
+<SYNC Start=1550230><P Class=KRCC>&nbsp;
+<SYNC Start=1550397><P Class=KRCC>
+- 내일 새벽까지요<br>
+- 좋아요, 새벽까지!
+<SYNC Start=1554231><P Class=KRCC>&nbsp;
+<SYNC Start=1554935><P Class=KRCC>
+빅터, 어디 있어요?
+<SYNC Start=1558393><P Class=KRCC>&nbsp;
+<SYNC Start=1558839><P Class=KRCC>
+자기 애인은<br>
+정신적으로 불안해
+<SYNC Start=1562502><P Class=KRCC>&nbsp;
+<SYNC Start=1562676><P Class=KRCC>
+애인이 아냐<br>
+남편이지
+<SYNC Start=1565076><P Class=KRCC>&nbsp;
+<SYNC Start=1565246><P Class=KRCC>
+빅터, 어디 갔어요?
+<SYNC Start=1567680><P Class=KRCC>&nbsp;
+<SYNC Start=1568015><P Class=KRCC>
+나도 찾아볼게
+<SYNC Start=1569710><P Class=KRCC>&nbsp;
+<SYNC Start=1570184><P Class=KRCC>
+빅터?
+<SYNC Start=1571173><P Class=KRCC>&nbsp;
+<SYNC Start=1575422><P Class=KRCC>
+저기야!<br>
+도망치고 있어!
+<SYNC Start=1578414><P Class=KRCC>&nbsp;
+<SYNC Start=1578592><P Class=KRCC>
+빨리 쫓아가!
+<SYNC Start=1580651><P Class=KRCC>&nbsp;
+<SYNC Start=1580828><P Class=KRCC>
+빅터!
+<SYNC Start=1582056><P Class=KRCC>&nbsp;
+<SYNC Start=1582229><P Class=KRCC>
+'중고 손 판매점'
+<SYNC Start=1584026><P Class=KRCC>&nbsp;
+<SYNC Start=1587735><P Class=KRCC>
+고마워요
+<SYNC Start=1588724><P Class=KRCC>&nbsp;
+<SYNC Start=1589069><P Class=KRCC>
+빅터
+<SYNC Start=1590468><P Class=KRCC>&nbsp;
+<SYNC Start=1591005><P Class=KRCC>
+어디 있어요?
+<SYNC Start=1592996><P Class=KRCC>&nbsp;
+<SYNC Start=1595009><P Class=KRCC>
+빅터?
+<SYNC Start=1596533><P Class=KRCC>&nbsp;
+<SYNC Start=1597211><P Class=KRCC>
+어디 갔어요?
+<SYNC Start=1599236><P Class=KRCC>&nbsp;
+<SYNC Start=1599780><P Class=KRCC>
+결혼했어?<br>
+난 과부야
+<SYNC Start=1602340><P Class=KRCC>&nbsp;
+<SYNC Start=1602516><P Class=KRCC>
+매너하곤!<br>
+저쪽으로 갔어!
+<SYNC Start=1605314><P Class=KRCC>&nbsp;
+<SYNC Start=1607021><P Class=KRCC>
+빅터!
+<SYNC Start=1608716><P Class=KRCC>&nbsp;
+<SYNC Start=1609990><P Class=KRCC>
+빅터!
+<SYNC Start=1611753><P Class=KRCC>&nbsp;
+<SYNC Start=1613294><P Class=KRCC>
+이건 실수예요<br>
+난 안 죽었어요!
+<SYNC Start=1616991><P Class=KRCC>&nbsp;
+<SYNC Start=1620701><P Class=KRCC>
+실례하네<br>
+이봐!
+<SYNC Start=1623499><P Class=KRCC>&nbsp;
+<SYNC Start=1624438><P Class=KRCC>
+실례하네
+<SYNC Start=1625564><P Class=KRCC>&nbsp;
+<SYNC Start=1626106><P Class=KRCC>
+- 고맙네<br>
+- 고맙네
+<SYNC Start=1627630><P Class=KRCC>&nbsp;
+<SYNC Start=1628442><P Class=KRCC>
+빅터
+<SYNC Start=1629909><P Class=KRCC>&nbsp;
+<SYNC Start=1631879><P Class=KRCC>
+- 막혔어<br>
+- 빅터!
+<SYNC Start=1634939><P Class=KRCC>&nbsp;
+<SYNC Start=1635249><P Class=KRCC>
+여기예요!
+<SYNC Start=1636682><P Class=KRCC>&nbsp;
+<SYNC Start=1645259><P Class=KRCC>
+계단으로<br>
+올라오면 될걸
+<SYNC Start=1647784><P Class=KRCC>&nbsp;
+<SYNC Start=1650264><P Class=KRCC>
+너무 아름답죠?<br>
+숨막힐 정도예요
+<SYNC Start=1654462><P Class=KRCC>&nbsp;
+<SYNC Start=1655669><P Class=KRCC>
+숨은 못 쉬지만!
+<SYNC Start=1657933><P Class=KRCC>&nbsp;
+<SYNC Start=1659607><P Class=KRCC>
+너무 낭만적이죠?
+<SYNC Start=1661802><P Class=KRCC>&nbsp;
+<SYNC Start=1669250><P Class=KRCC>
+진심으로 당신을<br>
+도와주곤 싶지만
+<SYNC Start=1672481><P Class=KRCC>&nbsp;
+<SYNC Start=1672653><P Class=KRCC>
+난 집에 가야 돼요
+<SYNC Start=1675952><P Class=KRCC>&nbsp;
+<SYNC Start=1676123><P Class=KRCC>
+- 이제 여기가 집인걸요<br>
+- 당신 이름도 몰라요
+<SYNC Start=1679286><P Class=KRCC>&nbsp;
+<SYNC Start=1679460><P Class=KRCC>
+정말 독특한 신혼부부야
+<SYNC Start=1682918><P Class=KRCC>&nbsp;
+<SYNC Start=1683097><P Class=KRCC>
+조용해!
+<SYNC Start=1684496><P Class=KRCC>&nbsp;
+<SYNC Start=1686500><P Class=KRCC>
+- 에밀리예요<br>
+- 에밀리
+<SYNC Start=1689367><P Class=KRCC>&nbsp;
+<SYNC Start=1689536><P Class=KRCC>
+참, 깜박했네요<br>
+줄 게 있어요
+<SYNC Start=1693370><P Class=KRCC>&nbsp;
+<SYNC Start=1694341><P Class=KRCC>
+결혼 선물이에요
+<SYNC Start=1696332><P Class=KRCC>&nbsp;
+<SYNC Start=1709456><P Class=KRCC>
+고마워요
+<SYNC Start=1710753><P Class=KRCC>&nbsp;
+<SYNC Start=1732680><P Class=KRCC>
+'스크랩스'?
+<SYNC Start=1733942><P Class=KRCC>&nbsp;
+<SYNC Start=1736350><P Class=KRCC>
+스크랩스!
+<SYNC Start=1737783><P Class=KRCC>&nbsp;
+<SYNC Start=1738352><P Class=KRCC>
+머구나!
+<SYNC Start=1739910><P Class=KRCC>&nbsp;
+<SYNC Start=1742423><P Class=KRCC>
+스크랩스<br>
+귀여운 녀석
+<SYNC Start=1745392><P Class=KRCC>&nbsp;
+<SYNC Start=1745559><P Class=KRCC>
+좋아할 줄 알았어요
+<SYNC Start=1747720><P Class=KRCC>&nbsp;
+<SYNC Start=1747895><P Class=KRCC>
+착하지?<br>
+스크랩스, 앉아
+<SYNC Start=1752093><P Class=KRCC>&nbsp;
+<SYNC Start=1752266><P Class=KRCC>
+잘했어<br>
+굴러, 어서 굴러
+<SYNC Start=1755531><P Class=KRCC>&nbsp;
+<SYNC Start=1755703><P Class=KRCC>
+그렇지, 죽은 척!
+<SYNC Start=1758604><P Class=KRCC>&nbsp;
+<SYNC Start=1760374><P Class=KRCC>
+미안해요
+<SYNC Start=1761773><P Class=KRCC>&nbsp;
+<SYNC Start=1762209><P Class=KRCC>
+너무 귀여워요
+<SYNC Start=1763836><P Class=KRCC>&nbsp;
+<SYNC Start=1764011><P Class=KRCC>
+털 있는 걸<br>
+봤어야 했는데
+<SYNC Start=1766070><P Class=KRCC>&nbsp;
+<SYNC Start=1766914><P Class=KRCC>
+어머닌<br>
+얠 싫어했어요
+<SYNC Start=1769781><P Class=KRCC>&nbsp;
+<SYNC Start=1769950><P Class=KRCC>
+사실, 좋아하는 게<br>
+없었죠
+<SYNC Start=1773386><P Class=KRCC>&nbsp;
+<SYNC Start=1773887><P Class=KRCC>
+어머니가<br>
+날 좋아할까요?
+<SYNC Start=1776378><P Class=KRCC>&nbsp;
+<SYNC Start=1776690><P Class=KRCC>
+못 만나는 게<br>
+다행이죠
+<SYNC Start=1779090><P Class=KRCC>&nbsp;
+<SYNC Start=1781328><P Class=KRCC>
+아니, 사실
+<SYNC Start=1782625><P Class=KRCC>&nbsp;
+<SYNC Start=1784064><P Class=KRCC>
+만나보는 게<br>
+좋을 것 같아요
+<SYNC Start=1787898><P Class=KRCC>&nbsp;
+<SYNC Start=1788068><P Class=KRCC>
+이제 우리가...
+<SYNC Start=1791060><P Class=KRCC>&nbsp;
+<SYNC Start=1792106><P Class=KRCC>
+결혼했으니까<br>
+만나봐야죠
+<SYNC Start=1794802><P Class=KRCC>&nbsp;
+<SYNC Start=1795209><P Class=KRCC>
+아버지도요<br>
+당장 뵈러 가요
+<SYNC Start=1797973><P Class=KRCC>&nbsp;
+<SYNC Start=1798145><P Class=KRCC>
+좋아요!<br>
+어디 묻혀계세요?
+<SYNC Start=1800909><P Class=KRCC>&nbsp;
+<SYNC Start=1802816><P Class=KRCC>
+- 왜요?<br>
+- 여기 안 계세요
+<SYNC Start=1805979><P Class=KRCC>&nbsp;
+<SYNC Start=1806153><P Class=KRCC>
+그럼요?
+<SYNC Start=1807677><P Class=KRCC>&nbsp;
+<SYNC Start=1808622><P Class=KRCC>
+살아 계시군요
+<SYNC Start=1810317><P Class=KRCC>&nbsp;
+<SYNC Start=1810491><P Class=KRCC>
+- 네<br>
+- 안 되겠네요
+<SYNC Start=1812618><P Class=KRCC>&nbsp;
+<SYNC Start=1812793><P Class=KRCC>
+뭐라고?
+<SYNC Start=1814158><P Class=KRCC>&nbsp;
+<SYNC Start=1815496><P Class=KRCC>
+그건 불가능해
+<SYNC Start=1817464><P Class=KRCC>&nbsp;
+<SYNC Start=1819366><P Class=KRCC>
+- 듣고 보니 그렇네<br>
+- 뭐가요?
+<SYNC Start=1823132><P Class=KRCC>&nbsp;
+<SYNC Start=1823470><P Class=KRCC>
+'엘더 구크네트'
+<SYNC Start=1825028><P Class=KRCC>&nbsp;
+<SYNC Start=1834481><P Class=KRCC>
+조용해
+<SYNC Start=1835470><P Class=KRCC>&nbsp;
+<SYNC Start=1835649><P Class=KRCC>
+엘더 구크네트?
+<SYNC Start=1837981><P Class=KRCC>&nbsp;
+<SYNC Start=1838385><P Class=KRCC>
+계세요?
+<SYNC Start=1839875><P Class=KRCC>&nbsp;
+<SYNC Start=1842923><P Class=KRCC>
+계세요?<br>
+누구 없어요?
+<SYNC Start=1845858><P Class=KRCC>&nbsp;
+<SYNC Start=1846727><P Class=KRCC>
+계세요?
+<SYNC Start=1848194><P Class=KRCC>&nbsp;
+<SYNC Start=1859573><P Class=KRCC>
+거기 계셨군요
+<SYNC Start=1861302><P Class=KRCC>&nbsp;
+<SYNC Start=1861975><P Class=KRCC>
+자네군<br>
+어서 오게
+<SYNC Start=1864375><P Class=KRCC>&nbsp;
+<SYNC Start=1864545><P Class=KRCC>
+남편도 왔어요<br>
+빅터요
+<SYNC Start=1866979><P Class=KRCC>&nbsp;
+<SYNC Start=1867147><P Class=KRCC>
+뭐?<br>
+남편이라고?
+<SYNC Start=1869945><P Class=KRCC>&nbsp;
+<SYNC Start=1870317><P Class=KRCC>
+반갑습니다
+<SYNC Start=1872547><P Class=KRCC>&nbsp;
+<SYNC Start=1873353><P Class=KRCC>
+위에 가려고요<br>
+산 자들의 땅이요
+<SYNC Start=1877790><P Class=KRCC>&nbsp;
+<SYNC Start=1877958><P Class=KRCC>
+산 사람들 땅에?
+<SYNC Start=1880188><P Class=KRCC>&nbsp;
+<SYNC Start=1882766><P Class=KRCC>
+이런
+<SYNC Start=1884233><P Class=KRCC>&nbsp;
+<SYNC Start=1884401><P Class=KRCC>
+부탁해요
+<SYNC Start=1886198><P Class=KRCC>&nbsp;
+<SYNC Start=1886370><P Class=KRCC>
+거기서 와놓고<br>
+왜 돌아가려고?
+<SYNC Start=1890204><P Class=KRCC>&nbsp;
+<SYNC Start=1890374><P Class=KRCC>
+저한텐 무척 중요해요
+<SYNC Start=1893434><P Class=KRCC>&nbsp;
+<SYNC Start=1894578><P Class=KRCC>
+- 우리한테요<br>
+- 글쎄, 흔치 않은 경우라서
+<SYNC Start=1898674><P Class=KRCC>&nbsp;
+<SYNC Start=1898849><P Class=KRCC>
+부탁해요
+<SYNC Start=1900749><P Class=KRCC>&nbsp;
+<SYNC Start=1900918><P Class=KRCC>
+아저씨라면 가능하잖아요
+<SYNC Start=1903546><P Class=KRCC>&nbsp;
+<SYNC Start=1905522><P Class=KRCC>
+어디 보자고
+<SYNC Start=1908116><P Class=KRCC>&nbsp;
+<SYNC Start=1908458><P Class=KRCC>
+그 책을<br>
+어디 뒀더라?
+<SYNC Start=1911359><P Class=KRCC>&nbsp;
+<SYNC Start=1918035><P Class=KRCC>
+여기 어디쯤 뒀는데
+<SYNC Start=1920265><P Class=KRCC>&nbsp;
+<SYNC Start=1923674><P Class=KRCC>
+여기 있군
+<SYNC Start=1925767><P Class=KRCC>&nbsp;
+<SYNC Start=1939489><P Class=KRCC>
+찾았어
+<SYNC Start=1941081><P Class=KRCC>&nbsp;
+<SYNC Start=1941491><P Class=KRCC>
+산 자들의 땅에 가는<br>
+'우크라이나' 마법
+<SYNC Start=1946155><P Class=KRCC>&nbsp;
+<SYNC Start=1946797><P Class=KRCC>
+- 너무 기대돼요!<br>
+- 나도요
+<SYNC Start=1950563><P Class=KRCC>&nbsp;
+<SYNC Start=1974157><P Class=KRCC>
+좀 전에
+<SYNC Start=1975556><P Class=KRCC>&nbsp;
+<SYNC Start=1976760><P Class=KRCC>
+어디까지 말했지?
+<SYNC Start=1978159><P Class=KRCC>&nbsp;
+<SYNC Start=1979396><P Class=KRCC>
+우크라이나 마법요
+<SYNC Start=1981455><P Class=KRCC>&nbsp;
+<SYNC Start=1990640><P Class=KRCC>
+이제 해보자고<br>
+준비됐어?
+<SYNC Start=1993541><P Class=KRCC>&nbsp;
+<SYNC Start=1993710><P Class=KRCC>
+돌아오는 주문은<br>
+'합스카치'
+<SYNC Start=1997646><P Class=KRCC>&nbsp;
+<SYNC Start=1997814><P Class=KRCC>
+- 합스카치?<br>
+- 그래
+<SYNC Start=2000544><P Class=KRCC>&nbsp;
+<SYNC Start=2017067><P Class=KRCC>
+어둠 속에서<br>
+오래 살아서
+<SYNC Start=2019297><P Class=KRCC>&nbsp;
+<SYNC Start=2019469><P Class=KRCC>
+달빛의 아름다움을<br>
+잊고 있었어요
+<SYNC Start=2024168><P Class=KRCC>&nbsp;
+<SYNC Start=2051435><P Class=KRCC>
+뭐 잊은 거 없어?
+<SYNC Start=2053733><P Class=KRCC>&nbsp;
+<SYNC Start=2072889><P Class=KRCC>
+잠깐만요
+<SYNC Start=2074481><P Class=KRCC>&nbsp;
+<SYNC Start=2076493><P Class=KRCC>
+먼저 가서<br>
+부모님께 알릴게요
+<SYNC Start=2080827><P Class=KRCC>&nbsp;
+<SYNC Start=2082532><P Class=KRCC>
+다녀올 테니
+<SYNC Start=2084466><P Class=KRCC>&nbsp;
+<SYNC Start=2085302><P Class=KRCC>
+여기서 기다려요
+<SYNC Start=2086769><P Class=KRCC>&nbsp;
+<SYNC Start=2087370><P Class=KRCC>
+- 좋아요<br>
+- 오래 안 걸려요
+<SYNC Start=2089964><P Class=KRCC>&nbsp;
+<SYNC Start=2090841><P Class=KRCC>
+여기 있어요<br>
+금방 올게요
+<SYNC Start=2093742><P Class=KRCC>&nbsp;
+<SYNC Start=2093910><P Class=KRCC>
+네
+<SYNC Start=2095468><P Class=KRCC>&nbsp;
+<SYNC Start=2096213><P Class=KRCC>
+훔쳐보면<br>
+안 돼요
+<SYNC Start=2097908><P Class=KRCC>&nbsp;
+<SYNC Start=2117167><P Class=KRCC>
+내 손에<br>
+걸리기만 하면
+<SYNC Start=2120102><P Class=KRCC>&nbsp;
+<SYNC Start=2120270><P Class=KRCC>
+모가지를<br>
+부러뜨리겠어
+<SYNC Start=2123535><P Class=KRCC>&nbsp;
+<SYNC Start=2123707><P Class=KRCC>
+그 두꺼운 손으로?<br>
+목도 가늘던데
+<SYNC Start=2127871><P Class=KRCC>&nbsp;
+<SYNC Start=2128044><P Class=KRCC>
+밧줄을 써요
+<SYNC Start=2130410><P Class=KRCC>&nbsp;
+<SYNC Start=2140290><P Class=KRCC>
+네 양심의 소리야<br>
+잘 들어봐
+<SYNC Start=2145125><P Class=KRCC>&nbsp;
+<SYNC Start=2145295><P Class=KRCC>
+심상치가 않아<br>
+널 버리고...
+<SYNC Start=2149493><P Class=KRCC>&nbsp;
+<SYNC Start=2151601><P Class=KRCC>
+다른 데 가서<br>
+떠들어!
+<SYNC Start=2153967><P Class=KRCC>&nbsp;
+<SYNC Start=2154137><P Class=KRCC>
+부모님을<br>
+만나러 간 거야
+<SYNC Start=2157868><P Class=KRCC>&nbsp;
+<SYNC Start=2158508><P Class=KRCC>
+내가 사는 머리지만<br>
+진짜 안 돌아가네
+<SYNC Start=2162376><P Class=KRCC>&nbsp;
+<SYNC Start=2162546><P Class=KRCC>
+늦어지는 데는 그만한<br>
+이유가 있을 거야
+<SYNC Start=2167006><P Class=KRCC>&nbsp;
+<SYNC Start=2167184><P Class=KRCC>
+어련할까!<br>
+가서 물어보지?
+<SYNC Start=2170381><P Class=KRCC>&nbsp;
+<!--
+자막 병합 구분 라인 by SMISyncW
+-->
+<SYNC Start=2170554><P Class=KRCC>
+좋아, 그럴래
+<SYNC Start=2171612><P Class=KRCC>&nbsp;
+<SYNC Start=2171788><P Class=KRCC>
+발이 얼어붙어서<br>
+얼마 못 갔을 거야
+<SYNC Start=2176350><P Class=KRCC>&nbsp;
+<SYNC Start=2215000><P Class=KRCC>
+- 빅토리아!<br>
+- 빅터? 돌아왔군요!
+<SYNC Start=2218993><P Class=KRCC>&nbsp;
+<SYNC Start=2219171><P Class=KRCC>
+이리 와요<br>
+어디 갔었어요? 괜찮아요?
+<SYNC Start=2223164><P Class=KRCC>&nbsp;
+<SYNC Start=2223709><P Class=KRCC>
+내가...
+<SYNC Start=2225370><P Class=KRCC>&nbsp;
+<SYNC Start=2225577><P Class=KRCC>
+맙소사
+<SYNC Start=2226908><P Class=KRCC>&nbsp;
+<SYNC Start=2227746><P Class=KRCC>
+몸이 얼음장이에요<br>
+무슨 일 있었어요?
+<SYNC Start=2231341><P Class=KRCC>&nbsp;
+<SYNC Start=2231517><P Class=KRCC>
+당신 코트가!
+<SYNC Start=2233382><P Class=KRCC>&nbsp;
+<SYNC Start=2234186><P Class=KRCC>
+빅토리아<br>
+전부 고백할게요
+<SYNC Start=2237087><P Class=KRCC>&nbsp;
+<SYNC Start=2238323><P Class=KRCC>
+아침엔 결혼이<br>
+두려웠지만
+<SYNC Start=2241451><P Class=KRCC>&nbsp;
+<SYNC Start=2242995><P Class=KRCC>
+당신을 만나곤<br>
+운명임을 느꼈어요
+<SYNC Start=2247489><P Class=KRCC>&nbsp;
+<SYNC Start=2247666><P Class=KRCC>
+빨리 결혼하고<br>
+싶어졌죠
+<SYNC Start=2251864><P Class=KRCC>&nbsp;
+<SYNC Start=2254840><P Class=KRCC>
+빅터, 나도 그랬어요
+<SYNC Start=2258276><P Class=KRCC>&nbsp;
+<SYNC Start=2263182><P Class=KRCC>
+빅토리아, 내가...
+<SYNC Start=2265810><P Class=KRCC>&nbsp;
+<SYNC Start=2265984><P Class=KRCC>
+결혼한 것 같아요
+<SYNC Start=2268544><P Class=KRCC>&nbsp;
+<SYNC Start=2268720><P Class=KRCC>
+나도 모르게요
+<SYNC Start=2271450><P Class=KRCC>&nbsp;
+<SYNC Start=2275327><P Class=KRCC>
+당신 부모님을 빨리...
+<SYNC Start=2277625><P Class=KRCC>&nbsp;
+<SYNC Start=2280399><P Class=KRCC>
+이 여잔 누구예요?
+<SYNC Start=2283061><P Class=KRCC>&nbsp;
+<SYNC Start=2283235><P Class=KRCC>
+- 누구죠?<br>
+- 이 사람 아내요
+<SYNC Start=2286671><P Class=KRCC>&nbsp;
+<SYNC Start=2288106><P Class=KRCC>
+- 빅터?<br>
+- 당신이 몰라서 그래요
+<SYNC Start=2290631><P Class=KRCC>&nbsp;
+<SYNC Start=2291109><P Class=KRCC>
+시체예요<br>
+봐요
+<SYNC Start=2293339><P Class=KRCC>&nbsp;
+<SYNC Start=2297015><P Class=KRCC>
+합스카치
+<SYNC Start=2298312><P Class=KRCC>&nbsp;
+<SYNC Start=2301186><P Class=KRCC>
+안 돼!<br>
+빅토리아!
+<SYNC Start=2303984><P Class=KRCC>&nbsp;
+<SYNC Start=2308861><P Class=KRCC>
+날 속였어!
+<SYNC Start=2310829><P Class=KRCC>&nbsp;
+<SYNC Start=2310996><P Class=KRCC>
+딴 여자한테 가려고!
+<SYNC Start=2313487><P Class=KRCC>&nbsp;
+<SYNC Start=2313665><P Class=KRCC>
+딴 여자는<br>
+바로 당신이에요
+<SYNC Start=2316600><P Class=KRCC>&nbsp;
+<SYNC Start=2316768><P Class=KRCC>
+나랑 결혼했잖아요<br>
+아내는 나라고요!
+<SYNC Start=2321296><P Class=KRCC>&nbsp;
+<SYNC Start=2324943><P Class=KRCC>
+맞는 소리야
+<SYNC Start=2326706><P Class=KRCC>&nbsp;
+<SYNC Start=2327379><P Class=KRCC>
+모든 게<br>
+완벽했는데!
+<SYNC Start=2332544><P Class=KRCC>&nbsp;
+<SYNC Start=2341393><P Class=KRCC>
+정말 미안해요<br>
+하지만...
+<SYNC Start=2344692><P Class=KRCC>&nbsp;
+<SYNC Start=2344863><P Class=KRCC>
+우린 안 돼요
+<SYNC Start=2346330><P Class=KRCC>&nbsp;
+<SYNC Start=2346498><P Class=KRCC>
+왜요?
+<SYNC Start=2348432><P Class=KRCC>&nbsp;
+<SYNC Start=2349434><P Class=KRCC>
+내 눈이<br>
+보기 흉해서죠?
+<SYNC Start=2351629><P Class=KRCC>&nbsp;
+<SYNC Start=2351803><P Class=KRCC>
+아뇨! 눈은...
+<SYNC Start=2353464><P Class=KRCC>&nbsp;
+<SYNC Start=2354573><P Class=KRCC>
+아름다워요
+<SYNC Start=2355870><P Class=KRCC>&nbsp;
+<SYNC Start=2356775><P Class=KRCC>
+다른 상황이라면<br>
+또 모를까
+<SYNC Start=2361109><P Class=KRCC>&nbsp;
+<SYNC Start=2361513><P Class=KRCC>
+우린 너무 달라요<br>
+당신은 죽었잖아요
+<SYNC Start=2365882><P Class=KRCC>&nbsp;
+<SYNC Start=2366051><P Class=KRCC>
+그럼 애당초<br>
+청혼을 말았어야죠
+<SYNC Start=2369077><P Class=KRCC>&nbsp;
+<SYNC Start=2369254><P Class=KRCC>
+그건 실수였어요<br>
+청혼한 적 없어요
+<SYNC Start=2372781><P Class=KRCC>&nbsp;
+<SYNC Start=2403188><P Class=KRCC>
+장미는<br>
+영원한 사랑
+<SYNC Start=2405884><P Class=KRCC>&nbsp;
+<SYNC Start=2406959><P Class=KRCC>
+백합은 달콤함
+<SYNC Start=2409359><P Class=KRCC>&nbsp;
+<SYNC Start=2412130><P Class=KRCC>
+안개꽃
+<SYNC Start=2413688><P Class=KRCC>&nbsp;
+<SYNC Start=2419504><P Class=KRCC>
+왜 시무룩해?
+<SYNC Start=2421096><P Class=KRCC>&nbsp;
+<SYNC Start=2421273><P Class=KRCC>
+빅터가 옳아요<br>
+우린 너무 달라요
+<SYNC Start=2424333><P Class=KRCC>&nbsp;
+<SYNC Start=2424509><P Class=KRCC>
+내가 그의 머리<br>
+속을 검사해볼까?
+<SYNC Start=2427103><P Class=KRCC>&nbsp;
+<SYNC Start=2428647><P Class=KRCC>
+말만 해
+<SYNC Start=2430444><P Class=KRCC>&nbsp;
+<SYNC Start=2430616><P Class=KRCC>
+살아있는 그녀와<br>
+더 어울리겠죠
+<SYNC Start=2434108><P Class=KRCC>&nbsp;
+<SYNC Start=2434286><P Class=KRCC>
+장밋빛 피부에<br>
+심장이 뛰잖아요
+<SYNC Start=2437653><P Class=KRCC>&nbsp;
+<SYNC Start=2438156><P Class=KRCC>
+그런 여자는 흔해<br>
+네가 훨씬 낫지
+<SYNC Start=2442354><P Class=KRCC>&nbsp;
+<SYNC Start=2442527><P Class=KRCC>
+넌...<br>
+넌...
+<SYNC Start=2444825><P Class=KRCC>&nbsp;
+<SYNC Start=2444997><P Class=KRCC>
+성격이<br>
+끝내주잖아
+<SYNC Start=2447488><P Class=KRCC>&nbsp;
+<SYNC Start=2454573><P Class=KRCC>
+네가 그 여자보다<br>
+딸리는 게 뭔데?
+<SYNC Start=2459010><P Class=KRCC>&nbsp;
+<SYNC Start=2459177><P Class=KRCC>
+그녀한텐 없는<br>
+네 아름다운 미소
+<SYNC Start=2462806><P Class=KRCC>&nbsp;
+<SYNC Start=2462981><P Class=KRCC>
+생명은?
+<SYNC Start=2464243><P Class=KRCC>&nbsp;
+<SYNC Start=2464416><P Class=KRCC>
+그건 과대 포장
+<SYNC Start=2465747><P Class=KRCC>&nbsp;
+<SYNC Start=2465917><P Class=KRCC>
+- 과대평가<br>
+- 뻥튀기
+<SYNC Start=2467179><P Class=KRCC>&nbsp;
+<SYNC Start=2467419><P Class=KRCC>
+왜 그걸 모를까
+<SYNC Start=2471185><P Class=KRCC>&nbsp;
+<SYNC Start=2472491><P Class=KRCC>
+그녀는 반지를<br>
+끼지 못했잖아
+<SYNC Start=2475460><P Class=KRCC>&nbsp;
+<SYNC Start=2475627><P Class=KRCC>
+피아노, 춤, 노래도<br>
+못 하고
+<SYNC Start=2479028><P Class=KRCC>&nbsp;
+<SYNC Start=2479197><P Class=KRCC>
+상대가 안 돼
+<SYNC Start=2480960><P Class=KRCC>&nbsp;
+<SYNC Start=2481133><P Class=KRCC>
+- 숨을 쉬잖아요<br>
+- 그래서?
+<SYNC Start=2483397><P Class=KRCC>&nbsp;
+<SYNC Start=2483568><P Class=KRCC>
+- 안 중요해<br>
+- 과대평가
+<SYNC Start=2484830><P Class=KRCC>&nbsp;
+<SYNC Start=2485003><P Class=KRCC>
+- 과대 포장<br>
+- 네가 얼마나
+<SYNC Start=2487198><P Class=KRCC>&nbsp;
+<SYNC Start=2487372><P Class=KRCC>
+특별한지
+<SYNC Start=2488999><P Class=KRCC>&nbsp;
+<SYNC Start=2489174><P Class=KRCC>
+그도 우리처럼<br>
+알기만 한다면
+<SYNC Start=2493201><P Class=KRCC>&nbsp;
+<SYNC Start=2499051><P Class=KRCC>
+촛불을 만져도<br>
+뜨겁질 않아요
+<SYNC Start=2503988><P Class=KRCC>&nbsp;
+<SYNC Start=2504723><P Class=KRCC>
+칼에 찔려도<br>
+마찬가지죠
+<SYNC Start=2508454><P Class=KRCC>&nbsp;
+<SYNC Start=2510195><P Class=KRCC>
+그녀 심장은<br>
+뛰지만
+<SYNC Start=2513164><P Class=KRCC>&nbsp;
+<SYNC Start=2513699><P Class=KRCC>
+난 죽었잖아요
+<SYNC Start=2516099><P Class=KRCC>&nbsp;
+<SYNC Start=2516568><P Class=KRCC>
+내가 느끼는<br>
+이 고통
+<SYNC Start=2518934><P Class=KRCC>&nbsp;
+<SYNC Start=2519604><P Class=KRCC>
+진짜가 아니라고<br>
+말해줘요
+<SYNC Start=2522164><P Class=KRCC>&nbsp;
+<SYNC Start=2522774><P Class=KRCC>
+내겐 아직 눈물이<br>
+남았나 봐요
+<SYNC Start=2527211><P Class=KRCC>&nbsp;
+<SYNC Start=2531683><P Class=KRCC>
+살아있단 것 외엔
+<SYNC Start=2534948><P Class=KRCC>&nbsp;
+<SYNC Start=2535120><P Class=KRCC>
+너보다 낫지 않아
+<SYNC Start=2536485><P Class=KRCC>&nbsp;
+<SYNC Start=2536655><P Class=KRCC>
+- 과대평가<br>
+- 과대 포장
+<SYNC Start=2538282><P Class=KRCC>&nbsp;
+<SYNC Start=2538457><P Class=KRCC>
+삶은 잠깐이라는 걸
+<SYNC Start=2541483><P Class=KRCC>&nbsp;
+<SYNC Start=2541660><P Class=KRCC>
+죽고 나서야<br>
+깨닫게 되지
+<SYNC Start=2544857><P Class=KRCC>&nbsp;
+<SYNC Start=2545030><P Class=KRCC>
+- 상관없어<br>
+- 안 중요해
+<SYNC Start=2546554><P Class=KRCC>&nbsp;
+<SYNC Start=2546732><P Class=KRCC>
+- 과대평가<br>
+- 과대 포장
+<SYNC Start=2548097><P Class=KRCC>&nbsp;
+<SYNC Start=2548266><P Class=KRCC>
+네가 얼마나<br>
+특별한지
+<SYNC Start=2551531><P Class=KRCC>&nbsp;
+<SYNC Start=2551703><P Class=KRCC>
+그도 우리처럼<br>
+알기만 한다면
+<SYNC Start=2556163><P Class=KRCC>&nbsp;
+<SYNC Start=2561446><P Class=KRCC>
+촛불을 만져도<br>
+뜨겁질 않아요
+<SYNC Start=2566782><P Class=KRCC>&nbsp;
+<SYNC Start=2567185><P Class=KRCC>
+추위나 더위를<br>
+느끼진 못해도
+<SYNC Start=2571212><P Class=KRCC>&nbsp;
+<SYNC Start=2572991><P Class=KRCC>
+가슴이<br>
+너무 아파요
+<SYNC Start=2575653><P Class=KRCC>&nbsp;
+<SYNC Start=2576161><P Class=KRCC>
+뛰진 않지만<br>
+부서지고 있죠
+<SYNC Start=2578959><P Class=KRCC>&nbsp;
+<SYNC Start=2579131><P Class=KRCC>
+내가 느끼는<br>
+이 고통
+<SYNC Start=2581656><P Class=KRCC>&nbsp;
+<SYNC Start=2582100><P Class=KRCC>
+진짜가 아니라고<br>
+말해줘요
+<SYNC Start=2584364><P Class=KRCC>&nbsp;
+<SYNC Start=2585170><P Class=KRCC>
+비록<br>
+난 죽었지만
+<SYNC Start=2587832><P Class=KRCC>&nbsp;
+<SYNC Start=2588774><P Class=KRCC>
+내게 아직 눈물이<br>
+남아있나 봐요
+<SYNC Start=2593234><P Class=KRCC>&nbsp;
+<SYNC Start=2602354><P Class=KRCC>
+정말이에요
+<SYNC Start=2604288><P Class=KRCC>&nbsp;
+<SYNC Start=2604456><P Class=KRCC>
+빅터가 시체랑<br>
+결혼했어요
+<SYNC Start=2607220><P Class=KRCC>&nbsp;
+<SYNC Start=2607392><P Class=KRCC>
+내가 봤어요<br>
+빅터랑 왔었어요
+<SYNC Start=2612159><P Class=KRCC>&nbsp;
+<SYNC Start=2612330><P Class=KRCC>
+빅터가 네 방에?
+<SYNC Start=2613888><P Class=KRCC>&nbsp;
+<SYNC Start=2614065><P Class=KRCC>
+도와줘야 돼요
+<SYNC Start=2615430><P Class=KRCC>&nbsp;
+<SYNC Start=2615600><P Class=KRCC>
+스캔들!
+<SYNC Start=2617124><P Class=KRCC>&nbsp;
+<SYNC Start=2617302><P Class=KRCC>
+여기 앉으세요<br>
+떨고 있잖아요
+<SYNC Start=2621136><P Class=KRCC>&nbsp;
+<SYNC Start=2621306><P Class=KRCC>
+담요를<br>
+가져올게요
+<SYNC Start=2623331><P Class=KRCC>&nbsp;
+<SYNC Start=2623508><P Class=KRCC>
+밧줄로 묶어 놔!<br>
+완전히 미쳤어!
+<SYNC Start=2626909><P Class=KRCC>&nbsp;
+<SYNC Start=2627078><P Class=KRCC>
+따라와
+<SYNC Start=2628943><P Class=KRCC>&nbsp;
+<SYNC Start=2662214><P Class=KRCC>
+여보, 이제 자요!
+<SYNC Start=2665149><P Class=KRCC>&nbsp;
+<SYNC Start=2685904><P Class=KRCC>
+대체 무슨 일이지?
+<SYNC Start=2688873><P Class=KRCC>&nbsp;
+<SYNC Start=2691476><P Class=KRCC>
+이 한밤중에<br>
+누구야?
+<SYNC Start=2694468><P Class=KRCC>&nbsp;
+<SYNC Start=2696014><P Class=KRCC>
+에버글롯 양
+<SYNC Start=2697276><P Class=KRCC>&nbsp;
+<SYNC Start=2697716><P Class=KRCC>
+이 한밤중에<br>
+여기엔 왜 왔지?
+<SYNC Start=2701982><P Class=KRCC>&nbsp;
+<SYNC Start=2702153><P Class=KRCC>
+목사님한테<br>
+물어볼 게 있어요
+<SYNC Start=2704849><P Class=KRCC>&nbsp;
+<SYNC Start=2705023><P Class=KRCC>
+- 해괴한 일이군<br>
+- 부탁해요
+<SYNC Start=2708424><P Class=KRCC>&nbsp;
+<SYNC Start=2708593><P Class=KRCC>
+저승에 대해 아는 사람은<br>
+목사님뿐이잖아요
+<SYNC Start=2713087><P Class=KRCC>&nbsp;
+<SYNC Start=2713265><P Class=KRCC>
+예비 신부가<br>
+저승을 말하다니!
+<SYNC Start=2715995><P Class=KRCC>&nbsp;
+<SYNC Start=2716301><P Class=KRCC>
+또 다른 신부가 있어요<br>
+대답해주세요
+<SYNC Start=2721136><P Class=KRCC>&nbsp;
+<SYNC Start=2721673><P Class=KRCC>
+사람이 시체랑<br>
+결혼할 수 있나요?
+<SYNC Start=2723868><P Class=KRCC>&nbsp;
+<SYNC Start=2724142><P Class=KRCC>
+지금 무슨 소리를<br>
+하는 거야?
+<SYNC Start=2726906><P Class=KRCC>&nbsp;
+<SYNC Start=2727078><P Class=KRCC>
+빅터가 시체랑<br>
+결혼했어요
+<SYNC Start=2730047><P Class=KRCC>&nbsp;
+<SYNC Start=2730482><P Class=KRCC>
+신부가 시체예요!
+<SYNC Start=2732712><P Class=KRCC>&nbsp;
+<SYNC Start=2732884><P Class=KRCC>
+결혼을 되돌릴<br>
+방법이 있겠죠?
+<SYNC Start=2736581><P Class=KRCC>&nbsp;
+<SYNC Start=2738990><P Class=KRCC>
+좋은 방법이 있지
+<SYNC Start=2741959><P Class=KRCC>&nbsp;
+<SYNC Start=2742661><P Class=KRCC>
+따라와요
+<SYNC Start=2743992><P Class=KRCC>&nbsp;
+<SYNC Start=2746798><P Class=KRCC>
+빅토리아!<br>
+코르셋은?
+<SYNC Start=2749289><P Class=KRCC>&nbsp;
+<SYNC Start=2749467><P Class=KRCC>
+불경스런 말을<br>
+입에 담았어요
+<SYNC Start=2753164><P Class=KRCC>&nbsp;
+<SYNC Start=2753338><P Class=KRCC>
+실성한 게<br>
+틀림없습니다
+<SYNC Start=2755602><P Class=KRCC>&nbsp;
+<SYNC Start=2755774><P Class=KRCC>
+그렇지 않아요<br>
+놔요!
+<SYNC Start=2757901><P Class=KRCC>&nbsp;
+<SYNC Start=2758076><P Class=KRCC>
+정말 고마워요, 목사님
+<SYNC Start=2762775><P Class=KRCC>&nbsp;
+<SYNC Start=2763415><P Class=KRCC>
+방으로 데려가!
+<SYNC Start=2764746><P Class=KRCC>&nbsp;
+<SYNC Start=2764916><P Class=KRCC>
+정말이에요
+<SYNC Start=2767350><P Class=KRCC>&nbsp;
+<SYNC Start=2767519><P Class=KRCC>
+빅터를<br>
+도와줘야 돼요
+<SYNC Start=2769384><P Class=KRCC>&nbsp;
+<SYNC Start=2769554><P Class=KRCC>
+날 믿죠?
+<SYNC Start=2771784><P Class=KRCC>&nbsp;
+<SYNC Start=2771957><P Class=KRCC>
+- 어머니, 아버지, 제발<br>
+- 문을 잠그고
+<SYNC Start=2774892><P Class=KRCC>&nbsp;
+<SYNC Start=2775060><P Class=KRCC>
+창문을 막아<br>
+다신 못 도망가게!
+<SYNC Start=2779520><P Class=KRCC>&nbsp;
+<SYNC Start=2779798><P Class=KRCC>
+도와줘야 돼요!<br>
+이거 놔요!
+<SYNC Start=2784098><P Class=KRCC>&nbsp;
+<SYNC Start=2784269><P Class=KRCC>
+이런 망신을 당하고
+<SYNC Start=2788296><P Class=KRCC>&nbsp;
+<SYNC Start=2788473><P Class=KRCC>
+어떻게 얼굴을<br>
+들고 다닐지!
+<SYNC Start=2791670><P Class=KRCC>&nbsp;
+<SYNC Start=2791843><P Class=KRCC>
+어떡하죠?
+<SYNC Start=2793105><P Class=KRCC>&nbsp;
+<SYNC Start=2793278><P Class=KRCC>
+빈센트 없이<br>
+식을 올려야지
+<SYNC Start=2796907><P Class=KRCC>&nbsp;
+<SYNC Start=2797082><P Class=KRCC>
+- 빅터!<br>
+- 뭐든 간에!
+<SYNC Start=2799346><P Class=KRCC>&nbsp;
+<SYNC Start=2799517><P Class=KRCC>
+따님처럼 아름다운<br>
+여자를 버리는 건
+<SYNC Start=2804250><P Class=KRCC>&nbsp;
+<SYNC Start=2804422><P Class=KRCC>
+범죄나 다름없죠
+<SYNC Start=2806447><P Class=KRCC>&nbsp;
+<SYNC Start=2806624><P Class=KRCC>
+저라면 제 품에서
+<SYNC Start=2810822><P Class=KRCC>&nbsp;
+<SYNC Start=2810996><P Class=KRCC>
+절대 놔주지<br>
+않을 겁니다
+<SYNC Start=2815592><P Class=KRCC>&nbsp;
+<SYNC Start=2815767><P Class=KRCC>
+부인이<br>
+참 행복하겠어요
+<SYNC Start=2819430><P Class=KRCC>&nbsp;
+<SYNC Start=2819604><P Class=KRCC>
+아뇨, 전 미혼입니다
+<SYNC Start=2822471><P Class=KRCC>&nbsp;
+<SYNC Start=2822640><P Class=KRCC>
+수년 전, 결혼을 앞두고
+<SYNC Start=2824505><P Class=KRCC>&nbsp;
+<SYNC Start=2824676><P Class=KRCC>
+약혼녀를 사고로 잃었죠
+<SYNC Start=2828612><P Class=KRCC>&nbsp;
+<SYNC Start=2828847><P Class=KRCC>
+돈이 아무리 많아도<br>
+혼자면 아무 소용없죠
+<SYNC Start=2832840><P Class=KRCC>&nbsp;
+<SYNC Start=2840959><P Class=KRCC>
+좋은 소식이다<br>
+예정대로 결혼한다
+<SYNC Start=2844861><P Class=KRCC>&nbsp;
+<SYNC Start=2845030><P Class=KRCC>
+그이를 찾았나요?
+<SYNC Start=2846327><P Class=KRCC>&nbsp;
+<SYNC Start=2846498><P Class=KRCC>
+몸단장하렴<br>
+친지들이 곧 온다
+<SYNC Start=2849956><P Class=KRCC>&nbsp;
+<SYNC Start=2850135><P Class=KRCC>
+바키스 경한테<br>
+예쁘게 보여야지
+<SYNC Start=2853935><P Class=KRCC>&nbsp;
+<SYNC Start=2855607><P Class=KRCC>
+바키스요?
+<SYNC Start=2856869><P Class=KRCC>&nbsp;
+<SYNC Start=2857042><P Class=KRCC>
+완벽한 신랑감이야
+<SYNC Start=2858566><P Class=KRCC>&nbsp;
+<SYNC Start=2858743><P Class=KRCC>
+너한테 청혼을 했다
+<SYNC Start=2862076><P Class=KRCC>&nbsp;
+<SYNC Start=2862247><P Class=KRCC>
+엄청난 갑부란다
+<SYNC Start=2864511><P Class=KRCC>&nbsp;
+<SYNC Start=2864682><P Class=KRCC>
+하지만, 전 그를<br>
+사랑하지 않아요
+<SYNC Start=2868379><P Class=KRCC>&nbsp;
+<SYNC Start=2868553><P Class=KRCC>
+- 결혼해<br>
+- 제발요!
+<SYNC Start=2871420><P Class=KRCC>&nbsp;
+<SYNC Start=2871589><P Class=KRCC>
+다른 방법을 찾아봐요
+<SYNC Start=2873022><P Class=KRCC>&nbsp;
+<SYNC Start=2873191><P Class=KRCC>
+결혼을 안 하면
+<SYNC Start=2875125><P Class=KRCC>&nbsp;
+<SYNC Start=2875293><P Class=KRCC>
+우린 길거리 신세야
+<SYNC Start=2877784><P Class=KRCC>&nbsp;
+<SYNC Start=2877962><P Class=KRCC>
+빈털터리로!
+<SYNC Start=2879395><P Class=KRCC>&nbsp;
+<SYNC Start=2879831><P Class=KRCC>
+하지만, 빅터가...
+<SYNC Start=2881526><P Class=KRCC>&nbsp;
+<SYNC Start=2881699><P Class=KRCC>
+널 버리고 떠났어
+<SYNC Start=2884224><P Class=KRCC>&nbsp;
+<SYNC Start=2884402><P Class=KRCC>
+내일 바키스와 결혼해
+<SYNC Start=2887428><P Class=KRCC>&nbsp;
+<SYNC Start=2890175><P Class=KRCC>
+- 예정대로!<br>
+- 예정대로!
+<SYNC Start=2892370><P Class=KRCC>&nbsp;
+<SYNC Start=2921106><P Class=KRCC>
+그런 눈으로<br>
+노려보지 말라고
+<SYNC Start=2924769><P Class=KRCC>&nbsp;
+<SYNC Start=2924943><P Class=KRCC>
+죽으면 싫어도<br>
+헤어질 테니까
+<SYNC Start=2929277><P Class=KRCC>&nbsp;
+<SYNC Start=2929614><P Class=KRCC>
+생각보단<br>
+일찍 죽겠지만!
+<SYNC Start=2933277><P Class=KRCC>&nbsp;
+<SYNC Start=2934953><P Class=KRCC>
+'이 사람을 본 적 있습니까?'<br>
+빅터 반 도트
+<SYNC Start=2936420><P Class=KRCC>&nbsp;
+<SYNC Start=2936588><P Class=KRCC>
+날이 밝아와요<br>
+어딨는 거야?
+<SYNC Start=2938556><P Class=KRCC>&nbsp;
+<SYNC Start=2938723><P Class=KRCC>
+빅터는<br>
+시체랑 도망쳤고
+<SYNC Start=2941783><P Class=KRCC>&nbsp;
+<SYNC Start=2941960><P Class=KRCC>
+빅토리아는<br>
+갑부와 결혼합니다!
+<SYNC Start=2945657><P Class=KRCC>&nbsp;
+<SYNC Start=2945830><P Class=KRCC>
+갑부?<br>
+그럴 리가 없어
+<SYNC Start=2948492><P Class=KRCC>&nbsp;
+<SYNC Start=2948666><P Class=KRCC>
+시체라고 했어?
+<SYNC Start=2950429><P Class=KRCC>&nbsp;
+<SYNC Start=2950602><P Class=KRCC>
+말도 안 돼요<br>
+어떤 시체가 빅터랑 결혼해요?
+<SYNC Start=2954436><P Class=KRCC>&nbsp;
+<SYNC Start=2954606><P Class=KRCC>
+메이휴!<br>
+기침 그만해요!
+<SYNC Start=2960602><P Class=KRCC>&nbsp;
+<SYNC Start=2977162><P Class=KRCC>
+우릴 죽일 참이에요?
+<SYNC Start=2979756><P Class=KRCC>&nbsp;
+<SYNC Start=2979931><P Class=KRCC>
+우릴 죽이려나 봐요!
+<SYNC Start=2982195><P Class=KRCC>&nbsp;
+<SYNC Start=2982567><P Class=KRCC>
+'눈알과 눈구멍'
+<SYNC Start=2983898><P Class=KRCC>&nbsp;
+<SYNC Start=3021372><P Class=KRCC>
+이걸
+<SYNC Start=3022703><P Class=KRCC>&nbsp;
+<SYNC Start=3023942><P Class=KRCC>
+떨어뜨렸어요
+<SYNC Start=3025773><P Class=KRCC>&nbsp;
+<SYNC Start=3034886><P Class=KRCC>
+미안해요
+<SYNC Start=3036217><P Class=KRCC>&nbsp;
+<SYNC Start=3036654><P Class=KRCC>
+부모님 만나자고<br>
+속인 거요
+<SYNC Start=3040351><P Class=KRCC>&nbsp;
+<SYNC Start=3040658><P Class=KRCC>
+이 모든 게<br>
+생각지도 못하게
+<SYNC Start=3044856><P Class=KRCC>&nbsp;
+<SYNC Start=3047498><P Class=KRCC>
+흘러가서요
+<SYNC Start=3049159><P Class=KRCC>&nbsp;
+<SYNC Start=3114732><P Class=KRCC>
+열정이 지나쳤네요
+<SYNC Start=3116324><P Class=KRCC>&nbsp;
+<SYNC Start=3116668><P Class=KRCC>
+그런 열정이<br>
+난 좋은걸요
+<SYNC Start=3118727><P Class=KRCC>&nbsp;
+<SYNC Start=3123374><P Class=KRCC>
+- 새내기다! 새내기가 왔어!<br>
+- 불 켜!
+<SYNC Start=3126832><P Class=KRCC>&nbsp;
+<SYNC Start=3130315><P Class=KRCC>
+서둘러, 빨리
+<SYNC Start=3131714><P Class=KRCC>&nbsp;
+<SYNC Start=3134652><P Class=KRCC>
+술 돌릴게요!
+<SYNC Start=3136279><P Class=KRCC>&nbsp;
+<SYNC Start=3136454><P Class=KRCC>
+한잔 더?
+<SYNC Start=3137546><P Class=KRCC>&nbsp;
+<SYNC Start=3137722><P Class=KRCC>
+- 아니, 반 잔만<br>
+- 아니, 반 잔만
+<SYNC Start=3139747><P Class=KRCC>&nbsp;
+<SYNC Start=3144996><P Class=KRCC>
+일 잘하는 시체가 없어!
+<SYNC Start=3147658><P Class=KRCC>&nbsp;
+<SYNC Start=3147832><P Class=KRCC>
+환영 부대 지나갑니다!
+<SYNC Start=3150562><P Class=KRCC>&nbsp;
+<SYNC Start=3150735><P Class=KRCC>
+- 난 플럼이에요, 싱글이고요<br>
+- 메이휴?
+<SYNC Start=3155536><P Class=KRCC>&nbsp;
+<SYNC Start=3157041><P Class=KRCC>
+메이휴!<br>
+정말 반가워요
+<SYNC Start=3159475><P Class=KRCC>&nbsp;
+<SYNC Start=3161713><P Class=KRCC>
+죄송해요
+<SYNC Start=3162907><P Class=KRCC>&nbsp;
+<SYNC Start=3163081><P Class=KRCC>
+아냐, 기분은 최고야
+<SYNC Start=3167450><P Class=KRCC>&nbsp;
+<SYNC Start=3169520><P Class=KRCC>
+서둘러!<br>
+손님 기다리셔!
+<SYNC Start=3173388><P Class=KRCC>&nbsp;
+<SYNC Start=3174325><P Class=KRCC>
+난 돌아가야 돼요
+<SYNC Start=3177226><P Class=KRCC>&nbsp;
+<SYNC Start=3177395><P Class=KRCC>
+모두 날 걱정할 텐데<br>
+다들 어때요?
+<SYNC Start=3179955><P Class=KRCC>&nbsp;
+<SYNC Start=3180131><P Class=KRCC>
+아직도 자네를 찾고 있어
+<SYNC Start=3184090><P Class=KRCC>&nbsp;
+<SYNC Start=3184268><P Class=KRCC>
+그런데 빅토리아가...
+<SYNC Start=3186463><P Class=KRCC>&nbsp;
+<SYNC Start=3186637><P Class=KRCC>
+어떤데요?
+<SYNC Start=3188195><P Class=KRCC>&nbsp;
+<SYNC Start=3188373><P Class=KRCC>
+오늘 저녁에 결혼해
+<SYNC Start=3191308><P Class=KRCC>&nbsp;
+<SYNC Start=3191476><P Class=KRCC>
+뭐라고요? 누구랑요?
+<SYNC Start=3193467><P Class=KRCC>&nbsp;
+<SYNC Start=3193644><P Class=KRCC>
+귀족 갑부라나 뭐라나?
+<SYNC Start=3197307><P Class=KRCC>&nbsp;
+<SYNC Start=3197482><P Class=KRCC>
+말도 안 돼요!
+<SYNC Start=3198813><P Class=KRCC>&nbsp;
+<SYNC Start=3198983><P Class=KRCC>
+자네가 없어져서
+<SYNC Start=3201144><P Class=KRCC>&nbsp;
+<SYNC Start=3201319><P Class=KRCC>
+대타를 구한 거지
+<SYNC Start=3204686><P Class=KRCC>&nbsp;
+<SYNC Start=3206557><P Class=KRCC>
+그녀가 어떻게...
+<SYNC Start=3207751><P Class=KRCC>&nbsp;
+<SYNC Start=3207925><P Class=KRCC>
+여자들이란<br>
+있어도 골치고
+<SYNC Start=3210826><P Class=KRCC>&nbsp;
+<SYNC Start=3210995><P Class=KRCC>
+없어도 골치야
+<SYNC Start=3213259><P Class=KRCC>&nbsp;
+<SYNC Start=3215233><P Class=KRCC>
+상처는 털어내고<br>
+마음을 추스르게
+<SYNC Start=3220330><P Class=KRCC>&nbsp;
+<SYNC Start=3221439><P Class=KRCC>
+참, 나도 추스를 게 있지
+<SYNC Start=3223566><P Class=KRCC>&nbsp;
+<SYNC Start=3227011><P Class=KRCC>
+빅터?<br>
+어디 가요?
+<SYNC Start=3230276><P Class=KRCC>&nbsp;
+<SYNC Start=3233451><P Class=KRCC>
+빅토리아 아씨<br>
+교회에 가야 돼요
+<SYNC Start=3238286><P Class=KRCC>&nbsp;
+<SYNC Start=3238689><P Class=KRCC>
+어제만 해도<br>
+너무 행복했는데
+<SYNC Start=3242147><P Class=KRCC>&nbsp;
+<SYNC Start=3242360><P Class=KRCC>
+지금은 바다에 빠진<br>
+기분이에요
+<SYNC Start=3246353><P Class=KRCC>&nbsp;
+<SYNC Start=3246531><P Class=KRCC>
+파도에 운명을 맡기세요
+<SYNC Start=3250228><P Class=KRCC>&nbsp;
+<SYNC Start=3251169><P Class=KRCC>
+좋은 곳으로<br>
+인도할 거예요
+<SYNC Start=3254661><P Class=KRCC>&nbsp;
+<SYNC Start=3260478><P Class=KRCC>
+이 촛불로<br>
+그대의 길을 비출지니
+<SYNC Start=3265040><P Class=KRCC>&nbsp;
+<SYNC Start=3271088><P Class=KRCC>
+이 반지를 받아<br>
+내 아내가 되어주시오
+<SYNC Start=3276754><P Class=KRCC>&nbsp;
+<SYNC Start=3280565><P Class=KRCC>
+부부가 됐음을<br>
+선포합니다
+<SYNC Start=3285161><P Class=KRCC>&nbsp;
+<SYNC Start=3285770><P Class=KRCC>
+오 맙소사
+<SYNC Start=3287738><P Class=KRCC>&nbsp;
+<SYNC Start=3303688><P Class=KRCC>
+너무 늦었어
+<SYNC Start=3305622><P Class=KRCC>&nbsp;
+<SYNC Start=3309861><P Class=KRCC>
+플럼, 전 어쩌죠?
+<SYNC Start=3312352><P Class=KRCC>&nbsp;
+<SYNC Start=3312530><P Class=KRCC>
+말도 없이 갔어요<br>
+남자는 다 그래요?
+<SYNC Start=3316762><P Class=KRCC>&nbsp;
+<SYNC Start=3316934><P Class=KRCC>
+남자는 죄다 바보야
+<SYNC Start=3319801><P Class=KRCC>&nbsp;
+<SYNC Start=3319971><P Class=KRCC>
+한번 결심하면
+<SYNC Start=3321871><P Class=KRCC>&nbsp;
+<SYNC Start=3322039><P Class=KRCC>
+듣지를 않거든
+<SYNC Start=3324599><P Class=KRCC>&nbsp;
+<SYNC Start=3325610><P Class=KRCC>
+할 얘기가 있다
+<SYNC Start=3328044><P Class=KRCC>&nbsp;
+<SYNC Start=3328212><P Class=KRCC>
+- 내가 말하게 해줘요<br>
+- 뭐죠?
+<SYNC Start=3332546><P Class=KRCC>&nbsp;
+<SYNC Start=3332717><P Class=KRCC>
+둘의 결혼에<br>
+문제가 있어
+<SYNC Start=3335777><P Class=KRCC>&nbsp;
+<SYNC Start=3336287><P Class=KRCC>
+무슨 소리죠?
+<SYNC Start=3337777><P Class=KRCC>&nbsp;
+<SYNC Start=3337955><P Class=KRCC>
+결혼 서약은<br>
+'죽음이 갈라놓을 때까지'잖아
+<SYNC Start=3342392><P Class=KRCC>&nbsp;
+<SYNC Start=3342793><P Class=KRCC>
+그런데요?
+<SYNC Start=3344055><P Class=KRCC>&nbsp;
+<SYNC Start=3344795><P Class=KRCC>
+자넨 벌써 죽었잖아
+<SYNC Start=3347525><P Class=KRCC>&nbsp;
+<SYNC Start=3348766><P Class=KRCC>
+그이가 알면<br>
+떠날 거예요!
+<SYNC Start=3350597><P Class=KRCC>&nbsp;
+<SYNC Start=3350768><P Class=KRCC>
+방법이 있겠죠?
+<SYNC Start=3352793><P Class=KRCC>&nbsp;
+<SYNC Start=3352970><P Class=KRCC>
+단 한 가지
+<SYNC Start=3355734><P Class=KRCC>&nbsp;
+<SYNC Start=3355907><P Class=KRCC>
+내가 말할게요<br>
+제발요
+<SYNC Start=3357807><P Class=KRCC>&nbsp;
+<SYNC Start=3357975><P Class=KRCC>
+큰 희생을 감수해야 돼
+<SYNC Start=3361001><P Class=KRCC>&nbsp;
+<SYNC Start=3361612><P Class=KRCC>
+- 중요한 걸 말해야죠!<br>
+- 그게 뭐죠?
+<SYNC Start=3364979><P Class=KRCC>&nbsp;
+<SYNC Start=3365149><P Class=KRCC>
+- 그를 죽여야 돼!<br>
+- 뭐?
+<SYNC Start=3367845><P Class=KRCC>&nbsp;
+<SYNC Start=3368019><P Class=KRCC>
+빅터가 삶을 포기하고
+<SYNC Start=3372752><P Class=KRCC>&nbsp;
+<SYNC Start=3373157><P Class=KRCC>
+산 자들의 땅에서<br>
+결혼 서약을 하며
+<SYNC Start=3376991><P Class=KRCC>&nbsp;
+<SYNC Start=3377161><P Class=KRCC>
+독약을 마시는 거야
+<SYNC Start=3380426><P Class=KRCC>&nbsp;
+<SYNC Start=3381265><P Class=KRCC>
+독약을요?
+<SYNC Start=3382527><P Class=KRCC>&nbsp;
+<SYNC Start=3382800><P Class=KRCC>
+그럼 심장이 영원히 멈추고
+<SYNC Start=3385928><P Class=KRCC>&nbsp;
+<SYNC Start=3386103><P Class=KRCC>
+헤어지지 않아도 돼
+<SYNC Start=3389368><P Class=KRCC>&nbsp;
+<SYNC Start=3392443><P Class=KRCC>
+그런 요구는 못 해요
+<SYNC Start=3395003><P Class=KRCC>&nbsp;
+<SYNC Start=3397481><P Class=KRCC>
+그럴 필요 없어요
+<SYNC Start=3399278><P Class=KRCC>&nbsp;
+<SYNC Start=3401819><P Class=KRCC>
+할게요
+<SYNC Start=3403081><P Class=KRCC>&nbsp;
+<SYNC Start=3403521><P Class=KRCC>
+일단 선택하면
+<SYNC Start=3406456><P Class=KRCC>&nbsp;
+<SYNC Start=3406624><P Class=KRCC>
+다시는 돌아가지 못해
+<SYNC Start=3409491><P Class=KRCC>&nbsp;
+<SYNC Start=3409660><P Class=KRCC>
+알아듣겠나?
+<SYNC Start=3411218><P Class=KRCC>&nbsp;
+<SYNC Start=3414665><P Class=KRCC>
+네
+<SYNC Start=3416633><P Class=KRCC>&nbsp;
+<SYNC Start=3417001><P Class=KRCC>
+전부 모여요<br>
+모여요
+<SYNC Start=3419868><P Class=KRCC>&nbsp;
+<SYNC Start=3423608><P Class=KRCC>
+우린 정식으로<br>
+결혼할 거예요
+<SYNC Start=3426168><P Class=KRCC>&nbsp;
+<SYNC Start=3426344><P Class=KRCC>
+필요한 거 챙겨서<br>
+우릴 따라와요
+<SYNC Start=3428744><P Class=KRCC>&nbsp;
+<SYNC Start=3428913><P Class=KRCC>
+피로연은<br>
+위에서 할 거예요
+<SYNC Start=3431473><P Class=KRCC>&nbsp;
+<SYNC Start=3431649><P Class=KRCC>
+위에서?<br>
+2층이 있는지 몰랐네
+<SYNC Start=3435813><P Class=KRCC>&nbsp;
+<SYNC Start=3435987><P Class=KRCC>
+- 무섭겠다<br>
+- 가자!
+<SYNC Start=3438547><P Class=KRCC>&nbsp;
+<SYNC Start=3438990><P Class=KRCC>
+결혼, 결혼<br>
+신나는 결혼식
+<SYNC Start=3442050><P Class=KRCC>&nbsp;
+<SYNC Start=3444729><P Class=KRCC>
+잠깐, 빅터
+<SYNC Start=3446890><P Class=KRCC>&nbsp;
+<SYNC Start=3447064><P Class=KRCC>
+그 꼴로<br>
+결혼할 순 없잖아
+<SYNC Start=3450261><P Class=KRCC>&nbsp;
+<SYNC Start=3450434><P Class=KRCC>
+귀엽긴 하지만<br>
+옷이 엉망이야
+<SYNC Start=3453733><P Class=KRCC>&nbsp;
+<SYNC Start=3453904><P Class=KRCC>
+하지만, 걱정 마, 우리가 있잖아<br>
+멋쟁이로 만들어줄게
+<SYNC Start=3457772><P Class=KRCC>&nbsp;
+<SYNC Start=3457942><P Class=KRCC>
+사랑스런 손길로
+<SYNC Start=3460308><P Class=KRCC>&nbsp;
+<SYNC Start=3461145><P Class=KRCC>
+전부 고쳐줄게
+<SYNC Start=3464308><P Class=KRCC>&nbsp;
+<SYNC Start=3464482><P Class=KRCC>
+거미줄 실은<br>
+얼마든지 있어
+<SYNC Start=3467610><P Class=KRCC>&nbsp;
+<SYNC Start=3467785><P Class=KRCC>
+수선 품질은<br>
+백 퍼센트 보장
+<SYNC Start=3471152><P Class=KRCC>&nbsp;
+<SYNC Start=3471322><P Class=KRCC>
+전부 고쳐줄게<br>
+최선을 다해서
+<SYNC Start=3474758><P Class=KRCC>&nbsp;
+<SYNC Start=3474925><P Class=KRCC>
+모두가 감탄할<br>
+정도로 예쁘게
+<SYNC Start=3477519><P Class=KRCC>&nbsp;
+<SYNC Start=3477695><P Class=KRCC>
+모두가<br>
+감탄할 거야
+<SYNC Start=3481597><P Class=KRCC>&nbsp;
+<SYNC Start=3481766><P Class=KRCC>
+신나는 결혼
+<SYNC Start=3483461><P Class=KRCC>&nbsp;
+<SYNC Start=3483634><P Class=KRCC>
+결혼 케이크는<br>
+멋지고 맛있게
+<SYNC Start=3486694><P Class=KRCC>&nbsp;
+<SYNC Start=3486871><P Class=KRCC>
+- 뭔가 빠졌어<br>
+- 먼지!
+<SYNC Start=3488634><P Class=KRCC>&nbsp;
+<SYNC Start=3488806><P Class=KRCC>
+시간이<br>
+더 많았다면!
+<SYNC Start=3490137><P Class=KRCC>&nbsp;
+<SYNC Start=3490307><P Class=KRCC>
+해골들도 가끔은<br>
+쓸모가 있어
+<SYNC Start=3493208><P Class=KRCC>&nbsp;
+<SYNC Start=3493377><P Class=KRCC>
+- 내 코!<br>
+- 미안!
+<SYNC Start=3495208><P Class=KRCC>&nbsp;
+<SYNC Start=3495379><P Class=KRCC>
+다 됐어<br>
+짜잔!
+<SYNC Start=3496641><P Class=KRCC>&nbsp;
+<SYNC Start=3496814><P Class=KRCC>
+- 저것도 좀<br>
+- 이것도 좀
+<SYNC Start=3498213><P Class=KRCC>&nbsp;
+<SYNC Start=3498382><P Class=KRCC>
+신나는 결혼식<br>
+맛있는 케이크
+<SYNC Start=3500077><P Class=KRCC>&nbsp;
+<SYNC Start=3500284><P Class=KRCC>
+결혼<br>
+신나는 결혼식
+<SYNC Start=3502548><P Class=KRCC>&nbsp;
+<SYNC Start=3502720><P Class=KRCC>
+결혼식
+<SYNC Start=3504017><P Class=KRCC>&nbsp;
+<SYNC Start=3504188><P Class=KRCC>
+우와, 우와
+<SYNC Start=3505815><P Class=KRCC>&nbsp;
+<SYNC Start=3505990><P Class=KRCC>
+신나는 결혼식
+<SYNC Start=3508515><P Class=KRCC>&nbsp;
+<SYNC Start=3509160><P Class=KRCC>
+모두 신부에게<br>
+축하의 환호를
+<SYNC Start=3514962><P Class=KRCC>&nbsp;
+<SYNC Start=3516233><P Class=KRCC>
+사랑스런<br>
+그녀의 결혼식
+<SYNC Start=3519168><P Class=KRCC>&nbsp;
+<SYNC Start=3519336><P Class=KRCC>
+마지막까지<br>
+지켜줘야지
+<SYNC Start=3522237><P Class=KRCC>&nbsp;
+<SYNC Start=3522406><P Class=KRCC>
+우리의 사랑스런<br>
+유령신부
+<SYNC Start=3525603><P Class=KRCC>&nbsp;
+<SYNC Start=3525776><P Class=KRCC>
+우와, 만세<br>
+우와, 만세
+<SYNC Start=3527573><P Class=KRCC>&nbsp;
+<SYNC Start=3527745><P Class=KRCC>
+오늘 드디어<br>
+결혼을 한다네
+<SYNC Start=3531977><P Class=KRCC>&nbsp;
+<SYNC Start=3532149><P Class=KRCC>
+저기 온다
+<SYNC Start=3534174><P Class=KRCC>&nbsp;
+<SYNC Start=3539390><P Class=KRCC>
+마침내 모습을<br>
+드러낸 신부
+<SYNC Start=3543053><P Class=KRCC>&nbsp;
+<SYNC Start=3543227><P Class=KRCC>
+오랫동안<br>
+기다려온 순간
+<SYNC Start=3547027><P Class=KRCC>&nbsp;
+<SYNC Start=3547198><P Class=KRCC>
+우리의 희망이자<br>
+자랑거리
+<SYNC Start=3551362><P Class=KRCC>&nbsp;
+<SYNC Start=3551535><P Class=KRCC>
+모두가 기다린<br>
+아리따운 신부
+<SYNC Start=3557735><P Class=KRCC>&nbsp;
+<SYNC Start=3557942><P Class=KRCC>
+아리따운 신부<br>
+아리따운 신부
+<SYNC Start=3561901><P Class=KRCC>&nbsp;
+<SYNC Start=3562146><P Class=KRCC>
+이 순간 영원히<br>
+지속되길
+<SYNC Start=3566082><P Class=KRCC>&nbsp;
+<SYNC Start=3566250><P Class=KRCC>
+우리 모두가<br>
+그녀만을 위한
+<SYNC Start=3570050><P Class=KRCC>&nbsp;
+<SYNC Start=3570221><P Class=KRCC>
+완벽한 결혼식을<br>
+선물할 거야
+<SYNC Start=3573918><P Class=KRCC>&nbsp;
+<SYNC Start=3574091><P Class=KRCC>
+우리의 사랑스런<br>
+자랑스러운 신부
+<SYNC Start=3581327><P Class=KRCC>&nbsp;
+<SYNC Start=3581966><P Class=KRCC>
+최고의 파티를<br>
+할 거야
+<SYNC Start=3584730><P Class=KRCC>&nbsp;
+<SYNC Start=3584902><P Class=KRCC>
+산 자들은<br>
+구경해보지 못한
+<SYNC Start=3588599><P Class=KRCC>&nbsp;
+<SYNC Start=3588773><P Class=KRCC>
+신부를 위한<br>
+특별한 파티
+<SYNC Start=3595406><P Class=KRCC>&nbsp;
+<SYNC Start=3596247><P Class=KRCC>
+가장 멋진 순간에<br>
+가장 행복한 신부
+<SYNC Start=3602049><P Class=KRCC>&nbsp;
+<SYNC Start=3602219><P Class=KRCC>
+산 자들의 땅에서
+<SYNC Start=3606952><P Class=KRCC>&nbsp;
+<SYNC Start=3607124><P Class=KRCC>
+죽은 자들의 축제를!
+<SYNC Start=3614929><P Class=KRCC>&nbsp;
+<SYNC Start=3617368><P Class=KRCC>
+맙소사
+<SYNC Start=3619859><P Class=KRCC>&nbsp;
+<SYNC Start=3631315><P Class=KRCC>
+모두 조용하세요
+<SYNC Start=3634716><P Class=KRCC>&nbsp;
+<SYNC Start=3639223><P Class=KRCC>
+감사합니다
+<SYNC Start=3640690><P Class=KRCC>&nbsp;
+<SYNC Start=3641725><P Class=KRCC>
+우아함, 세련미<br>
+눈부신 외모
+<SYNC Start=3646219><P Class=KRCC>&nbsp;
+<SYNC Start=3646864><P Class=KRCC>
+빅토리아의 남편인 저는
+<SYNC Start=3649628><P Class=KRCC>&nbsp;
+<SYNC Start=3649800><P Class=KRCC>
+이 모든 걸<br>
+갖추고 있습니다
+<SYNC Start=3653964><P Class=KRCC>&nbsp;
+<SYNC Start=3654138><P Class=KRCC>
+운명으로 묶인 우리를
+<SYNC Start=3656732><P Class=KRCC>&nbsp;
+<SYNC Start=3656907><P Class=KRCC>
+떼어놓을 것은<br>
+아무것도 없습니다
+<SYNC Start=3662209><P Class=KRCC>&nbsp;
+<SYNC Start=3682733><P Class=KRCC>
+수프에 눈알이 있어
+<SYNC Start=3685065><P Class=KRCC>&nbsp;
+<SYNC Start=3694578><P Class=KRCC>
+죄송!
+<SYNC Start=3695567><P Class=KRCC>&nbsp;
+<SYNC Start=3702653><P Class=KRCC>
+총 가져와!
+<SYNC Start=3703847><P Class=KRCC>&nbsp;
+<SYNC Start=3704021><P Class=KRCC>
+당신이 직접 가져와요!
+<SYNC Start=3706148><P Class=KRCC>&nbsp;
+<SYNC Start=3706323><P Class=KRCC>
+지나가요, 지나가요!
+<SYNC Start=3708553><P Class=KRCC>&nbsp;
+<SYNC Start=3711829><P Class=KRCC>
+나를 모르겠지만<br>
+당신 어머니 머릿속에서 살았었소
+<SYNC Start=3716562><P Class=KRCC>&nbsp;
+<SYNC Start=3717868><P Class=KRCC>
+기다려!
+<SYNC Start=3719495><P Class=KRCC>&nbsp;
+<SYNC Start=3720004><P Class=KRCC>
+난 살점 많은<br>
+여자가 좋거든
+<SYNC Start=3723531><P Class=KRCC>&nbsp;
+<SYNC Start=3724775><P Class=KRCC>
+이 사람들 누구예요?
+<SYNC Start=3727335><P Class=KRCC>&nbsp;
+<SYNC Start=3728312><P Class=KRCC>
+당신 친척들이죠?
+<SYNC Start=3730405><P Class=KRCC>&nbsp;
+<SYNC Start=3730581><P Class=KRCC>
+아냐!
+<SYNC Start=3731843><P Class=KRCC>&nbsp;
+<SYNC Start=3732016><P Class=KRCC>
+할아버지가 보시면<br>
+무덤에서 벌떡 일어날 거야
+<SYNC Start=3735975><P Class=KRCC>&nbsp;
+<SYNC Start=3736153><P Class=KRCC>
+피니스!
+<SYNC Start=3738087><P Class=KRCC>&nbsp;
+<SYNC Start=3739590><P Class=KRCC>
+술은 어디 있느냐?
+<SYNC Start=3741785><P Class=KRCC>&nbsp;
+<SYNC Start=3750668><P Class=KRCC>
+다음 소식은<br>
+시체들의 습격!
+<SYNC Start=3754798><P Class=KRCC>&nbsp;
+<SYNC Start=3759543><P Class=KRCC>
+저리 가!<br>
+가까이 오지 마!
+<SYNC Start=3763240><P Class=KRCC>&nbsp;
+<SYNC Start=3763414><P Class=KRCC>
+저리 가!
+<SYNC Start=3764881><P Class=KRCC>&nbsp;
+<SYNC Start=3766250><P Class=KRCC>
+혼나기 싫으면...
+<SYNC Start=3768081><P Class=KRCC>&nbsp;
+<SYNC Start=3779630><P Class=KRCC>
+안 돼!
+<SYNC Start=3780892><P Class=KRCC>&nbsp;
+<SYNC Start=3781065><P Class=KRCC>
+흠
+<SYNC Start=3782430><P Class=KRCC>&nbsp;
+<SYNC Start=3796914><P Class=KRCC>
+할아버지?
+<SYNC Start=3798711><P Class=KRCC>&nbsp;
+<SYNC Start=3802319><P Class=KRCC>
+- 천민!<br>
+- 자기야
+<SYNC Start=3803843><P Class=KRCC>&nbsp;
+<SYNC Start=3804021><P Class=KRCC>
+- 괴물!<br>
+- 여보
+<SYNC Start=3805454><P Class=KRCC>&nbsp;
+<SYNC Start=3805622><P Class=KRCC>
+- 악당!<br>
+- 거투르드!
+<SYNC Start=3807419><P Class=KRCC>&nbsp;
+<SYNC Start=3807891><P Class=KRCC>
+알프레드?
+<SYNC Start=3809415><P Class=KRCC>&nbsp;
+<SYNC Start=3811095><P Class=KRCC>
+15년 전에 죽었잖소
+<SYNC Start=3813996><P Class=KRCC>&nbsp;
+<SYNC Start=3814164><P Class=KRCC>
+솔직히, 난 상관없어
+<SYNC Start=3818032><P Class=KRCC>&nbsp;
+<SYNC Start=3818202><P Class=KRCC>
+에델!
+<SYNC Start=3819965><P Class=KRCC>&nbsp;
+<SYNC Start=3830314><P Class=KRCC>
+잠깐! 그렇지
+<SYNC Start=3832111><P Class=KRCC>&nbsp;
+<SYNC Start=3832282><P Class=KRCC>
+돈을 챙겨서<br>
+도망가는 거야
+<SYNC Start=3835683><P Class=KRCC>&nbsp;
+<SYNC Start=3835853><P Class=KRCC>
+돈?<br>
+무슨 돈이요?
+<SYNC Start=3838287><P Class=KRCC>&nbsp;
+<SYNC Start=3838455><P Class=KRCC>
+당신의<br>
+결혼 지참금!
+<SYNC Start=3840821><P Class=KRCC>&nbsp;
+<SYNC Start=3840991><P Class=KRCC>
+우리 부모님은<br>
+돈 없어요
+<SYNC Start=3842982><P Class=KRCC>&nbsp;
+<SYNC Start=3843160><P Class=KRCC>
+파산을 면하려고<br>
+날 당신과 결혼시킨걸요
+<SYNC Start=3847859><P Class=KRCC>&nbsp;
+<SYNC Start=3848032><P Class=KRCC>
+뭐라고?
+<SYNC Start=3850125><P Class=KRCC>&nbsp;
+<SYNC Start=3850601><P Class=KRCC>
+사실이 아냐!<br>
+거짓말!
+<SYNC Start=3854435><P Class=KRCC>&nbsp;
+<SYNC Start=3854605><P Class=KRCC>
+일이 계획대로<br>
+안 풀렸나요?
+<SYNC Start=3858405><P Class=KRCC>&nbsp;
+<SYNC Start=3858575><P Class=KRCC>
+실망이 큰 건<br>
+둘 다 마찬가지네요
+<SYNC Start=3863376><P Class=KRCC>&nbsp;
+<SYNC Start=3882199><P Class=KRCC>
+지옥의 악마들아!
+<SYNC Start=3884997><P Class=KRCC>&nbsp;
+<SYNC Start=3885169><P Class=KRCC>
+너희 땅으로<br>
+돌아가거라!
+<SYNC Start=3889230><P Class=KRCC>&nbsp;
+<SYNC Start=3889406><P Class=KRCC>
+여기엔 못 들어간다
+<SYNC Start=3891203><P Class=KRCC>&nbsp;
+<SYNC Start=3891375><P Class=KRCC>
+물러나!
+<SYNC Start=3893935><P Class=KRCC>&nbsp;
+<SYNC Start=3894111><P Class=KRCC>
+교회에선 조용해야지
+<SYNC Start=3896341><P Class=KRCC>&nbsp;
+<SYNC Start=3896513><P Class=KRCC>
+안녕하세요
+<SYNC Start=3898413><P Class=KRCC>&nbsp;
+<SYNC Start=3934918><P Class=KRCC>
+시체 하객 여러분
+<SYNC Start=3937216><P Class=KRCC>&nbsp;
+<SYNC Start=3937387><P Class=KRCC>
+산 사람과 시체의 결혼식을<br>
+거행하겠습니다
+<SYNC Start=3943087><P Class=KRCC>&nbsp;
+<SYNC Start=3946430><P Class=KRCC>
+빅터?
+<SYNC Start=3948398><P Class=KRCC>&nbsp;
+<SYNC Start=3950367><P Class=KRCC>
+산 사람부터
+<SYNC Start=3951834><P Class=KRCC>&nbsp;
+<SYNC Start=3953904><P Class=KRCC>
+이 손으로
+<SYNC Start=3955462><P Class=KRCC>&nbsp;
+<SYNC Start=3956240><P Class=KRCC>
+당신의 슬픔을<br>
+어루만지고
+<SYNC Start=3958731><P Class=KRCC>&nbsp;
+<SYNC Start=3960344><P Class=KRCC>
+당신의 잔을<br>
+가득 채울
+<SYNC Start=3962608><P Class=KRCC>&nbsp;
+<SYNC Start=3963147><P Class=KRCC>
+와인이 되리라
+<SYNC Start=3965138><P Class=KRCC>&nbsp;
+<SYNC Start=3966049><P Class=KRCC>
+이번엔 시체
+<SYNC Start=3967311><P Class=KRCC>&nbsp;
+<SYNC Start=3972489><P Class=KRCC>
+이 손으로
+<SYNC Start=3974548><P Class=KRCC>&nbsp;
+<SYNC Start=3974725><P Class=KRCC>
+당신의 슬픔을<br>
+어루만지고
+<SYNC Start=3977023><P Class=KRCC>&nbsp;
+<SYNC Start=3978529><P Class=KRCC>
+당신의 잔을<br>
+가득 채울
+<SYNC Start=3981692><P Class=KRCC>&nbsp;
+<SYNC Start=3983467><P Class=KRCC>
+가득 채울...
+<SYNC Start=3985492><P Class=KRCC>&nbsp;
+<SYNC Start=3991108><P Class=KRCC>
+가득 채울...
+<SYNC Start=3992803><P Class=KRCC>&nbsp;
+<SYNC Start=3994711><P Class=KRCC>
+계속 해
+<SYNC Start=3996338><P Class=KRCC>&nbsp;
+<SYNC Start=3996947><P Class=KRCC>
+당신의 잔을...
+<SYNC Start=3998710><P Class=KRCC>&nbsp;
+<SYNC Start=3999416><P Class=KRCC>
+가득...
+<SYNC Start=4001475><P Class=KRCC>&nbsp;
+<SYNC Start=4003687><P Class=KRCC>
+가득 채울...
+<SYNC Start=4005621><P Class=KRCC>&nbsp;
+<SYNC Start=4007758><P Class=KRCC>
+와인이 되리니
+<SYNC Start=4009953><P Class=KRCC>&nbsp;
+<SYNC Start=4014598><P Class=KRCC>
+망설이는 거야
+<SYNC Start=4016190><P Class=KRCC>&nbsp;
+<SYNC Start=4019303><P Class=KRCC>
+난 못 해요!
+<SYNC Start=4020395><P Class=KRCC>&nbsp;
+<SYNC Start=4021071><P Class=KRCC>
+왜 그래요?
+<SYNC Start=4022766><P Class=KRCC>&nbsp;
+<SYNC Start=4024074><P Class=KRCC>
+이건 잘못이에요
+<SYNC Start=4025871><P Class=KRCC>&nbsp;
+<SYNC Start=4027110><P Class=KRCC>
+나는 살아서 신부였지만
+<SYNC Start=4029203><P Class=KRCC>&nbsp;
+<SYNC Start=4029680><P Class=KRCC>
+꿈을 빼앗겼어요
+<SYNC Start=4032274><P Class=KRCC>&nbsp;
+<SYNC Start=4033083><P Class=KRCC>
+그런데 지금은
+<SYNC Start=4034710><P Class=KRCC>&nbsp;
+<SYNC Start=4035219><P Class=KRCC>
+다른 사람의 꿈을<br>
+빼앗고 있잖아요
+<SYNC Start=4038279><P Class=KRCC>&nbsp;
+<SYNC Start=4039022><P Class=KRCC>
+당신을 사랑하지만
+<SYNC Start=4041513><P Class=KRCC>&nbsp;
+<SYNC Start=4042826><P Class=KRCC>
+우리 결혼은 안 돼요
+<SYNC Start=4045192><P Class=KRCC>&nbsp;
+<SYNC Start=4050567><P Class=KRCC>
+빅토리아!
+<SYNC Start=4051829><P Class=KRCC>&nbsp;
+<SYNC Start=4066650><P Class=KRCC>
+감동적이군
+<SYNC Start=4069778><P Class=KRCC>&nbsp;
+<SYNC Start=4069953><P Class=KRCC>
+결혼식만 보면 눈물이 나
+<SYNC Start=4072751><P Class=KRCC>&nbsp;
+<SYNC Start=4074057><P Class=KRCC>
+마침내 둘이 다시 만났군
+<SYNC Start=4078391><P Class=KRCC>&nbsp;
+<SYNC Start=4078562><P Class=KRCC>
+이제 행복하게 살게 되나?
+<SYNC Start=4082521><P Class=KRCC>&nbsp;
+<SYNC Start=4083567><P Class=KRCC>
+하지만, 잊었군
+<SYNC Start=4085194><P Class=KRCC>&nbsp;
+<SYNC Start=4085402><P Class=KRCC>
+내 아내야!
+<SYNC Start=4087495><P Class=KRCC>&nbsp;
+<SYNC Start=4087671><P Class=KRCC>
+난 빈손으론 못 떠나!
+<SYNC Start=4090299><P Class=KRCC>&nbsp;
+<SYNC Start=4091675><P Class=KRCC>
+당신은?
+<SYNC Start=4092835><P Class=KRCC>&nbsp;
+<SYNC Start=4095812><P Class=KRCC>
+에밀리?
+<SYNC Start=4097245><P Class=KRCC>&nbsp;
+<SYNC Start=4097414><P Class=KRCC>
+당신이군!
+<SYNC Start=4098608><P Class=KRCC>&nbsp;
+<SYNC Start=4098782><P Class=KRCC>
+하지만, 널 버렸는데
+<SYNC Start=4101774><P Class=KRCC>&nbsp;
+<SYNC Start=4102886><P Class=KRCC>
+날 죽였어!
+<SYNC Start=4104683><P Class=KRCC>&nbsp;
+<SYNC Start=4105489><P Class=KRCC>
+이 여잔 제정신이 아냐!
+<SYNC Start=4107320><P Class=KRCC>&nbsp;
+<SYNC Start=4114998><P Class=KRCC>
+미안하지만<br>
+우린 그만 가겠어
+<SYNC Start=4118297><P Class=KRCC>&nbsp;
+<SYNC Start=4118468><P Class=KRCC>
+그녀한테서 손떼
+<SYNC Start=4120834><P Class=KRCC>&nbsp;
+<SYNC Start=4121838><P Class=KRCC>
+너도 죽여줄까?
+<SYNC Start=4124636><P Class=KRCC>&nbsp;
+<SYNC Start=4128011><P Class=KRCC>
+빅터, 받아!
+<SYNC Start=4131037><P Class=KRCC>&nbsp;
+<SYNC Start=4131682><P Class=KRCC>
+미안!
+<SYNC Start=4133172><P Class=KRCC>&nbsp;
+<SYNC Start=4147798><P Class=KRCC>
+치사하게 반칙하지 마
+<SYNC Start=4150164><P Class=KRCC>&nbsp;
+<SYNC Start=4192008><P Class=KRCC>
+네가 이겼군
+<SYNC Start=4193908><P Class=KRCC>&nbsp;
+<SYNC Start=4194511><P Class=KRCC>
+나가!
+<SYNC Start=4195842><P Class=KRCC>&nbsp;
+<SYNC Start=4196580><P Class=KRCC>
+떠날 참이었어
+<SYNC Start=4199378><P Class=KRCC>&nbsp;
+<SYNC Start=4203887><P Class=KRCC>
+그 전에<br>
+에밀리를 위해 건배
+<SYNC Start=4206879><P Class=KRCC>&nbsp;
+<SYNC Start=4207057><P Class=KRCC>
+살아서도 죽어서도<br>
+결혼을 못 하는군
+<SYNC Start=4211494><P Class=KRCC>&nbsp;
+<SYNC Start=4211962><P Class=KRCC>
+말해봐
+<SYNC Start=4213623><P Class=KRCC>&nbsp;
+<SYNC Start=4213797><P Class=KRCC>
+멈춰버린 심장도<br>
+아플 수 있나?
+<SYNC Start=4217858><P Class=KRCC>&nbsp;
+<SYNC Start=4220871><P Class=KRCC>
+가만 안 둬!
+<SYNC Start=4222338><P Class=KRCC>&nbsp;
+<SYNC Start=4222506><P Class=KRCC>
+- 말리지 마요!<br>
+- 잠깐!
+<SYNC Start=4224064><P Class=KRCC>&nbsp;
+<SYNC Start=4225342><P Class=KRCC>
+산 자의 규칙을 따라야 돼
+<SYNC Start=4227970><P Class=KRCC>&nbsp;
+<SYNC Start=4228145><P Class=KRCC>
+산 사람들과 함께 있으니까
+<SYNC Start=4231342><P Class=KRCC>&nbsp;
+<SYNC Start=4231515><P Class=KRCC>
+말 잘했소
+<SYNC Start=4233380><P Class=KRCC>&nbsp;
+<SYNC Start=4249299><P Class=KRCC>
+이젠 아녜요
+<SYNC Start=4251267><P Class=KRCC>&nbsp;
+<SYNC Start=4254805><P Class=KRCC>
+그래, 맘대로 처리해
+<SYNC Start=4257706><P Class=KRCC>&nbsp;
+<SYNC Start=4269052><P Class=KRCC>
+새내기다!
+<SYNC Start=4271111><P Class=KRCC>&nbsp;
+<SYNC Start=4277794><P Class=KRCC>
+빅터, 다시는<br>
+못 볼 줄 알았어요
+<SYNC Start=4281753><P Class=KRCC>&nbsp;
+<SYNC Start=4289105><P Class=KRCC>
+잠깐만
+<SYNC Start=4290595><P Class=KRCC>&nbsp;
+<SYNC Start=4291374><P Class=KRCC>
+난 약속했어요
+<SYNC Start=4293604><P Class=KRCC>&nbsp;
+<SYNC Start=4296313><P Class=KRCC>
+당신은 약속을 지켰어요
+<SYNC Start=4298907><P Class=KRCC>&nbsp;
+<SYNC Start=4299749><P Class=KRCC>
+내게 자유를 줬죠
+<SYNC Start=4301717><P Class=KRCC>&nbsp;
+<SYNC Start=4312562><P Class=KRCC>
+나도 당신을 놔줄게요
+<SYNC Start=4315588><P Class=KRCC>&nbsp;
+</BODY>
+</SAMI>
