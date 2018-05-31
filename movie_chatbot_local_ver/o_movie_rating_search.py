@@ -5,7 +5,7 @@ import re
 def movie_rating_search(keyword):
 
     client_id = "4KmDmXTR6GT9s71Sl0z0"
-    client_secret = "KygI6wAaja"
+    client_secret = "키 발급해야한"
     encText = str(keyword.encode('utf-8'))[2:-1].replace('\\x', '%')
 
     url = "https://openapi.naver.com/v1/search/movie.xml?query=" + encText  # xml

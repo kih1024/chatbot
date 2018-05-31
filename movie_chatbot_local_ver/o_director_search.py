@@ -3,7 +3,7 @@ import urllib.request
 
 # KMDB- 영화목록 url
 url = "http://api.koreafilm.or.kr/openapi-data2/wisenut/search_api/search_xml.jsp?collection=kmdb_new&ServiceKey="
-key = "F191DA714E3E2D5EA9EE47ECF7D1EB0BB922AF96D2A4D5FB5166874A957B2B"
+key = "키 발급해야한"
 url = url + key
 
 utfLine = "우디앨런"
