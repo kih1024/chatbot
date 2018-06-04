@@ -1,0 +1,6 @@
+model_checkpoint_path: "C:\\Users\\lemon\\Desktop\\multi-class-text-classification-cnn-master_combine\\trained_model_1526709312\\checkpoints\\model-1400"
+all_model_checkpoint_paths: "C:\\Users\\lemon\\Desktop\\multi-class-text-classification-cnn-master_combine\\trained_model_1526709312\\checkpoints\\model-600"
+all_model_checkpoint_paths: "C:\\Users\\lemon\\Desktop\\multi-class-text-classification-cnn-master_combine\\trained_model_1526709312\\checkpoints\\model-800"
+all_model_checkpoint_paths: "C:\\Users\\lemon\\Desktop\\multi-class-text-classification-cnn-master_combine\\trained_model_1526709312\\checkpoints\\model-1000"
+all_model_checkpoint_paths: "C:\\Users\\lemon\\Desktop\\multi-class-text-classification-cnn-master_combine\\trained_model_1526709312\\checkpoints\\model-1200"
+all_model_checkpoint_paths: "C:\\Users\\lemon\\Desktop\\multi-class-text-classification-cnn-master_combine\\trained_model_1526709312\\checkpoints\\model-1400"
